@@ -2,35 +2,21 @@
 title: "Character Map"
 week: 1
 status: "Siap dinilai"
-self_score: 14
+self_score: "15"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
 ---
 
-## Kompetensi target
-
-Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
-
-## Evidence wajib
-
-- Lima character dari sedikitnya tiga domain kehidupan.
-- Objective, responsibility, repertoire, dan risiko tiap character.
-- Satu contoh perubahan language ketika character berubah.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
-
 ## Lima character
 
 | Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
 |---|---|---|---|---|
-| Intra-Self — mahasiswa yang melatih disiplin & regulasi emosi | Diri sendiri | Menjaga fokus belajar (bidang siber) dan meregulasi emosi saat tertekan | Self-talk, evaluasi progres belajar, jeda saat emosi memuncak | Burnout/kehilangan fokus; latihan: cek-in rutin ke diri sendiri |
-| Keluarga — pendengar | Anggota keluarga | Hadir secara emosional dan memvalidasi perasaan, bukan langsung menyelesaikan masalah | Validasi feeling dulu, baru feedback; nada bicara lembut | Hubungan renggang kalau gagal jadi pendengar; latihan: tahan diri sebelum kasih solusi |
-| Akademik — teman diskusi kelompok belajar | Teman satu kelompok | Jadi teman diskusi teknis, saling bantu memahami materi | Diskusi dua arah, tanya-jawab konsep, saling koreksi | Materi tidak dipahami bersama; latihan: cek pemahaman lawan bicara sebelum lanjut topik |
-| Komunitas — anggota BPA STEI-K 2025 | Anggota angkatan STEI-K | Merancang & menjembatani aktivitas yang menyatukan angkatan; mengambil keputusan saat ada konflik jadwal | Komunikasi formal, terstruktur, lewat forum/jarkom | Angkatan kecewa dan malu kalau keputusan diambil terlambat/kurang tegas; latihan: sampaikan keputusan lebih awal setelah data lengkap |
-| Publik — penyuara gagasan (ideologi kiri) | Publik luas, sesama mahasiswa/aktivis | Mengajak diskusi terbuka soal gagasan, bukan memaksakan pandangan | Argumentasi terbuka, mengundang pertanyaan/pertentangan | Gagasan disalahpahami atau memicu konflik yang tidak perlu; latihan: buka ruang tanya sebelum menyimpulkan |
+| Intra-Self,  mahasiswa yang melatih disiplin & regulasi emosi | Diri sendiri | Menjaga fokus belajar (bidang siber) dan meregulasi emosi saat tertekan | Self-talk, evaluasi progres belajar, jeda saat emosi memuncak | Burnout/kehilangan fokus; latihan: cek-in rutin ke diri sendiri |
+| Keluarga,  pendengar | Anggota keluarga | Hadir secara emosional dan memvalidasi perasaan, bukan langsung menyelesaikan masalah | Validasi feeling dulu, baru feedback; nada bicara lembut | Hubungan renggang kalau gagal jadi pendengar; latihan: tahan diri sebelum kasih solusi |
+| Akademik, teman diskusi kelompok belajar | Teman satu kelompok | Jadi teman diskusi teknis, saling bantu memahami materi | Diskusi dua arah, tanya-jawab konsep, saling koreksi | Materi tidak dipahami bersama; latihan: cek pemahaman lawan bicara sebelum lanjut topik |
+| Komunitas, anggota BPA STEI-K 2025 | Anggota angkatan STEI-K | Merancang & menjembatani aktivitas yang menyatukan angkatan; mengambil keputusan saat ada konflik jadwal | Komunikasi formal, terstruktur, lewat forum/jarkom | Angkatan kecewa dan malu kalau keputusan diambil terlambat/kurang tegas; latihan: sampaikan keputusan lebih awal setelah data lengkap |
+| Publik, penyuara gagasan (ideologi kiri) | Publik luas, sesama mahasiswa/aktivis | Mengajak diskusi terbuka soal gagasan, bukan memaksakan pandangan | Argumentasi terbuka, mengundang pertanyaan/pertentangan | Gagasan disalahpahami atau memicu konflik yang tidak perlu; latihan: buka ruang tanya sebelum menyimpulkan |
 
 ## Episode yang dianalisis
 
@@ -41,6 +27,14 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 **Proses:** Keputusan diambil untuk menggeser pelaksanaan makrab ke setelah periode ujian selesai. Sebelum keputusan final disampaikan, dilakukan diskusi angkatan terlebih dahulu, sehingga aspirasi dan kekhawatiran anggota dapat tertampung sebelum tanggal baru ditetapkan.
 
 **Hasil:** Kegiatan makrab tetap berjalan tanpa mengganggu UAS, dan keputusan diterima karena melalui proses diskusi, bukan instruksi mendadak.
+
+**Evidence foto:**
+
+![Diskusi angkatan sebelum keputusan final diambil dan foto bareng Ketua Pelaksana ](../assets/makrab.jpeg)
+
+![Jaringan komunikasi (jarkom) resmi ke angkatan](../assets/jarkom.jpeg)
+
+![Foto angkatan](../assets/makerab.jpeg)
 
 ## Perubahan language
 
@@ -64,7 +58,16 @@ Core kepedulian terhadap orang lain tetap sama di kedua peran, tetapi *responsib
 | Person & Character | 3 | 5 character dari lebih dari 3 domain sudah dipetakan dengan person & relationship jelas |
 | Objective & State | 3 | Objective tiap character dan state awal-tujuan episode BPA sudah eksplisit |
 | Repertoire, Language & AI | 3 | Perubahan language antar character ditunjukkan; batas peran AI dijelaskan |
-| Response & Adaptation | 2 | Proses diskusi sebelum keputusan sudah ada, tapi analisis adaptasi masih bisa lebih dalam |
+| Response & Adaptation | 3 | Dua adaptasi nyata (tempat dan tanggal) berdasarkan informasi baru dari lapangan dan aspirasi angkatan |
 | Agreement, Action & Relationship | 3 | Ada keputusan, proses, dan dampak relationship (kepercayaan angkatan) tercatat |
 
-**Total: 14/20.**
+**Total: 15/20.**
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
