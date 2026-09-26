@@ -18,10 +18,10 @@ Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih rag
 ---
 
 ## **B. Identitas Mahasiswa**
-*   **Nama Lengkap:** ______________________________________
-*   **NIM:** ______________________________________
-*   **Program Studi:** ______________________________________
-*   **Tanggal Pengisian:** ______________________________________
+*   **Nama Lengkap:** Banu Agi Triyanto
+*   **NIM:** 18225109
+*   **Program Studi:** Ilmu Komunikasi
+*   **Tanggal Pengisian:** 18 September 2026
 
 ---
 
@@ -31,21 +31,21 @@ Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemuka
 1. **Konsep Teknis yang Dipilih:**
    *(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
    *Jawab:*
-   
+   Mendengarkan aktif tiga tingkat: kata, makna, dan pribadi.
 2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
    *(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
    *Jawab:*
-   
+   Mendengarkan aktif adalah proses komunikasi yang sengaja memusatkan perhatian pada pesan pembicara, memeriksa makna melalui parafrasa, dan mengenali emosi serta kebutuhan yang mendasari pesan. Proses ini tidak berhenti pada penerimaan kata secara literal, tetapi menggunakan pertanyaan terbuka, validasi tentatif, dan pemeriksaan kebutuhan agar respons tidak didasarkan pada asumsi pendengar.
 3. **Daftar Jargon Teknis & Artian Sederhananya:**
    *Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
-   *   **Jargon 1:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 2:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 3:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
+   *   **Jargon 1:** `Parafrasa` $\rightarrow$ Arti Sederhana: Mengulang inti ucapan dengan kata-kata sendiri untuk memastikan pemahaman.
+   *   **Jargon 2:** `Validasi emosi` $\rightarrow$ Arti Sederhana: Mengakui bahwa perasaan seseorang masuk akal tanpa harus menyetujui semua tindakannya.
+   *   **Jargon 3:** `Pertanyaan terbuka` $\rightarrow$ Arti Sederhana: Pertanyaan yang memberi ruang bagi orang lain untuk menjelaskan, bukan hanya menjawab ya atau tidak.
 
 4. **Kebenaran Inti (*Marrow of the Message*):**
    *(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
    *Jawab:*
-   
+   Mendengarkan aktif membantu seseorang merasa dipahami sehingga percakapan dapat menghasilkan respons dan keputusan yang lebih tepat.
 ---
 
 ## **D. Tahap 2: Matriks Terjemahan Lima Bahasa**
@@ -53,34 +53,33 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 
 ### **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
 *   **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
-*   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
-*   *Draf Terjemahan Anda:*
-   
-   
+   *   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
+   *   *Draf Terjemahan Anda:*
+   “Mendengarkan aktif itu seperti menjadi detektif yang baik. Kita tidak hanya mendengar kata-kata teman, tetapi juga mencari tahu maksud dan perasaannya. Kita bisa mengulang ceritanya dengan bahasa sendiri dan bertanya, ‘Kamu ingin didengarkan atau dibantu?’ supaya teman tidak merasa sendirian.”
+
 ### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
 *   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
-*   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
-*   *Draf Terjemahan Anda:*
-   
-   
+   *   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
+   *   *Draf Terjemahan Anda:*
+   “Kalau teman lagi cerita, jangan buru-buru kasih solusi. Dengerin dulu sampai selesai, terus coba rangkum, ‘Jadi yang bikin kamu berat itu bukan tugasnya, tapi pembagian kerjanya, ya?’ Setelah itu tanya dia butuh didengerin atau mau diajak mikir jalan keluarnya.”
+
 ### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
 *   **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
-*   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
-*   *Draf Terjemahan Anda:*
-   
-   
+   *   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
+   *   *Draf Terjemahan Anda:*
+   “Active listening mengintegrasikan atensi pada level verbal, parafrasa untuk verifikasi makna, dan refleksi afektif untuk mengidentifikasi kebutuhan. Implementasinya: gunakan maksimal dua open-ended questions, lakukan tentative validation, lalu lakukan need check sebelum advice-giving. Indikator keberhasilan: paraphrase dikonfirmasi akurat dan pembicara dapat memilih bentuk bantuan secara otonom.”
+
 ### **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
 *   **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
-*   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
-*   *Draf Terjemahan Anda:*
-   
-   
+   *   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
+   *   *Draf Terjemahan Anda:*
+   “Menerapkan mendengarkan aktif mengurangi miskomunikasi dan biaya konflik. Dengan investasi waktu beberapa menit untuk mendengar, merangkum, dan memeriksa kebutuhan, manajer dapat menemukan masalah pembagian kerja lebih awal, mencegah eskalasi, dan memilih intervensi yang benar-benar dibutuhkan. Risikonya rendah karena saran diberikan setelah ada persetujuan pembicara.”
+
 ### **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
 *   **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
 *   **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
 *   *Draf Terjemahan Anda:*
-   
-   
+   “Dalam keluarga, kampus, dan tempat kerja, orang sering ingin didengar sebelum diberi nasihat. Mendengarkan aktif membuat kita memeriksa fakta, memahami perasaan, dan menanyakan bantuan yang diinginkan. Kebiasaan ini membantu mengurangi salah paham, menghargai martabat setiap orang, dan membuat keputusan bersama terasa lebih adil.”
 
 ---
 
@@ -89,14 +88,14 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 
 1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
    *Jawab:*
-   
+   Ragam rekan teknis paling sulit karena saya harus tetap presisi tanpa kembali memakai istilah yang tidak perlu. Saya perlu memilih jargon yang benar-benar membantu, lalu memberi definisi singkat agar penjelasan tidak berubah menjadi pamer pengetahuan.
 2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
    *Jawab:*
-   
+   Saya menyadari bahwa memahami teori belum sama dengan mampu menjelaskannya. Ketika jargon diurai menjadi tindakan yang dapat diamati, saya lebih mudah melihat manfaat komunikasi bagi orang lain dan lebih bertanggung jawab memilih kata sesuai kebutuhan audiens.
 3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
    *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
    *Jawab:*
-   
+   Saya menggunakan AI sebagai pemeriksa alternatif register, bukan sebagai sumber pengalaman. Instruksi yang digunakan: “Periksa lima draf ini untuk audiens berbeda; tandai istilah yang terlalu teknis dan usulkan penyederhanaan tanpa mengubah makna inti.” Saya memakai saran tentang kejelasan analogi anak-anak dan publik, tetapi menolak kalimat yang terdengar terlalu umum atau mengubah konsep. Saya memeriksa kembali akurasi definisi, menjaga privasi, dan memastikan keputusan akhir tentang kata-kata tetap saya buat sendiri.
 
 ---
 
@@ -105,11 +104,11 @@ Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam 
 
 | Kriteria | Skor 4 (Sangat Baik) | Skor 3 (Baik) | Skor 2 (Cukup) | Skor 1 (Kurang) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | |
-| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | |
-| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | |
-| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | |
-| **Total Skor (Maksimal 16)** | | | | | **___ / 16** |
+| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | 4 |
+| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | 4 |
+| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | 3 |
+| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | 3 |
+| **Total Skor (Maksimal 16)** | | | | | **14 / 16** |
 
 ---
 
