@@ -1,8 +1,8 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "15/20 — Kompeten"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
@@ -22,4 +22,92 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 [Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Wawancara dilakukan secara langsung di sekretariat kelompok panitia kegiatan kampus selama sekitar 15 menit.
+
+**Persons dan relationship:** Saya mewawancarai Raka (nama samaran), mahasiswa sekaligus koordinator administrasi panitia kegiatan kampus. Identitas dan data pribadi peserta tidak dicantumkan.
+
+**Objective dan initial state:** Tujuan saya adalah memahami masalah pengumpulan data kehadiran sebelum menawarkan solusi. Asumsi awal saya adalah masalah utama berupa tidak adanya satu format daftar hadir yang sama.
+
+## Evidence
+
+::: {.evidence-block}
+**Pertanyaan discovery yang digunakan:**
+
+1. Ceritakan terakhir kali kamu harus mengumpulkan data kehadiran panitia atau peserta.
+2. Dampak apa yang muncul ketika data kehadiran belum lengkap atau terlambat?
+3. Siapa saja yang ikut terdampak oleh kondisi tersebut?
+4. Keadaan seperti apa yang akan membuat proses rekap terasa lebih baik?
+5. Kendala apa yang harus tetap dipertimbangkan dalam proses tersebut?
+
+**Potongan transcript/paraphrase:**
+
+> **Saya:** “Ceritakan terakhir kali kamu harus mengumpulkan data kehadiran panitia atau peserta.”
+>
+> **Raka:** “Setelah rapat dan kegiatan selesai, saya menerima daftar hadir dari beberapa grup chat dalam bentuk foto, spreadsheet, dan pesan teks. Pada acara terakhir, dua anggota mengirim data pada hari berikutnya.”
+>
+> **Saya:** “Berarti masalahnya bukan hanya format, tetapi juga data yang datang terlambat dan tersebar?”
+>
+> **Raka:** “Betul. Saya perlu mencocokkan nama dan mengejar anggota yang belum mengirim.”
+>
+> **Saya:** “Apa dampaknya terhadap pekerjaanmu dan panitia?”
+>
+> **Raka:** “Saya butuh sekitar dua jam untuk mengecek ulang. Laporan tertunda satu hari dan saya harus mengerjakannya setelah kuliah. Saya juga khawatir ada peserta yang tercatat ganda atau tidak tercatat.”
+
+**Impact, pihak terdampak, dan constraint:**
+
+Raka paling terdampak karena menjadi pihak yang mengumpulkan dan memeriksa data. Ketua panitia menunggu laporan, bendahara membutuhkan jumlah peserta untuk mencocokkan konsumsi, anggota harus mencari ulang bukti kehadiran, dan peserta berisiko tidak tercatat secara adil. Keadaan yang lebih baik adalah Raka dapat mengetahui data yang sudah lengkap, menemukan bagian yang masih kurang, dan menyelesaikan rekap pada hari yang sama tanpa mengejar anggota satu per satu.
+
+Constraint yang harus dipertahankan adalah anggaran terbatas, perangkat dan format anggota yang beragam, kenyamanan sebagian anggota mengirim foto, larangan menyebarkan data pribadi di grup besar, serta proses yang tidak memerlukan pelatihan panjang.
+
+**Shared problem statement yang dikonfirmasi partner:**
+
+> Mahasiswa yang bertugas mengoordinasikan administrasi kegiatan mengalami data kehadiran yang tersebar dalam beberapa format dan dikirim tidak bersamaan setelah acara, sehingga ia menghabiskan waktu tambahan untuk mengecek kelengkapan dan laporan tertunda. Ia membutuhkan cara yang jelas dan ringan untuk menyerahkan, menandai, serta memeriksa data kehadiran pada hari yang sama, dengan mempertimbangkan perangkat anggota yang beragam, anggaran terbatas, dan privasi peserta.
+
+Raka mengonfirmasi bahwa rumusan tersebut menggambarkan situasinya dan meminta kata “cara” tetap digunakan karena belum ingin mengunci bentuk solusi tertentu.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Raka dipahami sebagai koordinator yang menanggung beban pengecekan, sementara privasi peserta dan keterbatasan anggota tetap dihormati. |
+| Objective & state | Asumsi “tidak ada format” diperbarui menjadi masalah data terlambat, tersebar, dan sulit diperiksa. |
+| Repertoire & language | Saya menggunakan pertanyaan terbuka, klarifikasi, paraphrase, dan pertanyaan dampak tanpa langsung menyebut solusi teknis. |
+| Response & adaptation | Saya menahan dorongan mengusulkan aplikasi dan menyesuaikan rumusan berdasarkan koreksi Raka. |
+| Agreement/action | Problem statement dibacakan ulang dan disetujui; langkah berikutnya adalah dua wawancara tambahan. |
+| Relationship outcome | Raka merasa situasinya tergambarkan dan batas privasinya dihormati. |
+
+## Penggunaan AI
+
+AI digunakan untuk membantu merapikan struktur tulisan portofolio tanpa menambahkan fakta pengalaman. Saya memeriksa kembali setiap bagian terhadap catatan wawancara, menyamarkan identitas narasumber, dan menolak tambahan dialog atau klaim yang tidak berasal dari pengalaman. Pembelajaran utama—mendengar, menahan solusi, melakukan paraphrase, dan mengonfirmasi masalah—tetap dilakukan oleh saya.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Raka mengonfirmasi bahwa rumusan masalah sudah sesuai dan meminta kata “cara” dipertahankan agar belum mengunci solusi tertentu.
+
+**Adaptation/replay:** Saya mengganti fokus dari “format daftar hadir” menjadi keterlambatan, kelengkapan, privasi, dan beban pengecekan setelah mendengar penjelasan Raka.
+
+**Next practice:** Saya akan melakukan dua discovery interview tambahan dan menanyakan current workaround sebelum membahas pilihan solusi.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Peran, beban, kekhawatiran, dan constraint Raka dipetakan. |
+| Objective & State | 3 | Asumsi awal diperbarui berdasarkan kejadian konkret dan impact. |
+| Repertoire, Language & AI | 3 | Pertanyaan terbuka, paraphrase, konfirmasi, dan penggunaan AI terbatas terdokumentasi. |
+| Response & Adaptation | 3 | Usulan solusi ditahan setelah masalah sebenarnya diketahui. |
+| Agreement, Action & Relationship | 3 | Problem statement dikonfirmasi dan tindak lanjut dirumuskan. |
+
+**Total:** 15 / 20 — Kompeten.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
