@@ -43,12 +43,14 @@ Kelima sesi menunjukkan pola pembelajaran yang sama: validasi kebutuhan perlu me
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---:|---|---|
 | Makalah | 10% | — | — | — | Menunggu nilai resmi dosen |
-| Sesi 1 | 18% | — | 100 | — | Usulan AI; moderasi dosen |
-| Sesi 2a | 18% | — | 100 | — | Usulan AI; moderasi dosen |
-| Sesi 2b | 18% | — | 100 | — | Usulan AI; moderasi dosen |
-| Sesi 3a | 18% | — | 100 | — | Usulan AI; moderasi dosen |
-| Sesi 3b | 18% | — | 100 | — | Usulan AI; moderasi dosen |
+| Sesi 1 | 18% | 100 | 100 | — | Self-assessment 24/24; usulan AI; moderasi dosen |
+| Sesi 2a | 18% | 100 | 100 | — | Self-assessment 24/24; usulan AI; moderasi dosen |
+| Sesi 2b | 18% | 100 | 100 | — | Self-assessment 24/24; usulan AI; moderasi dosen |
+| Sesi 3a | 18% | 100 | 100 | — | Self-assessment 24/24; usulan AI; moderasi dosen |
+| Sesi 3b | 18% | 100 | 100 | — | Self-assessment 24/24; usulan AI; moderasi dosen |
 
 **Nilai akhir UTS resmi:** Belum dihitung. Nilai makalah dosen dan lima nilai sesi resmi belum tersedia; usulan AI bukan nilai resmi dan tidak menggantikan moderasi dosen.
+
+**Dasar self-assessment:** Setiap sesi memperoleh 4/4 pada enam dimensi rubrik berdasarkan evidence dan refleksi yang tercantum di laporan. Konversi: `24 / 24 × 100 = 100`. Nilai ini adalah penilaian diri, bukan nilai resmi dosen.
 
 {{< include "../includes/uts-penilaian.md" >}}
