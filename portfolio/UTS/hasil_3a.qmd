@@ -1,0 +1,188 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Banu Agil Triyanto |
+| NIM | 18225109 |
+| Kelas dan tanggal | 01; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 — Menawarkan solusi TI dan AI |
+| Nama dan ID target | Fajar (K3-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam `PENUGASAN.md` |
+| Modalitas | Teks; sumber transkripsi: percakapan chat aktual |
+| Kasus nyata/fiktif | Situasi customer/pengelola usaha bersifat simulasi fiktif |
+| Kelengkapan transkrip | Lengkap untuk percakapan sesi ini sejak simulasi sampai konfirmasi |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Fajar mengelola usaha dengan pesan pelanggan berulang dan pesanan tercecer. Ia belum yakin perlu AI dan tidak memiliki banyak waktu. Tujuan mahasiswa adalah menggali kebutuhan serta biaya kesalahan sebelum menawarkan solusi, menghindari hard-selling, dan merancang uji coba yang aman, terukur, berbatas, dan dapat dihentikan.
+
+Indikator uji: lima topik FAQ, akurasi jawaban, format pesanan di spreadsheet, zero double input, fallback untuk pertanyaan di luar cakupan, notifikasi cepat, setup 10–15 menit, dan pemeliharaan sederhana. Pilot nyata tidak boleh dianggap siap hanya karena simulasi berhasil.
+
+## Profil awal target
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang jika hasil cepat; cepat mencoba tetapi dokumentasi lemah; terancam hasil lambat dan beban baru | Profil K3-06; AI001 | Profil simulasi |
+| Attitude | Pragmatis, tidak sabar pada penjelasan panjang, ingin hasil cepat | Profil K3-06; AI001 | Profil simulasi |
+| Knowledge | Pengalaman praktis, tetapi risiko kesalahan otomatis dan integrasi belum dipahami penuh | Profil K3-06; AI001 | Profil simulasi |
+| Skill | Cepat mencoba; membutuhkan demo, checklist, dan fallback | Profil K3-06 | Profil simulasi |
+| Preferensi/MBTI jika dilaporkan | Langsung, demonstrasi, hasil cepat; MBTI tidak didiagnosis | Profil K3-06 | Konfigurasi simulasi, bukan diagnosis |
+| Karakter, peran, kultur/ko-kultur | Pengelola usaha/customer; menghargai kegunaan dan kelincahan | Profil K3-06 | Simulasi |
+
+## Dugaan awal profil dan rencana TAIDA
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menentukan apakah solusi layak diuji | A: hargai waktu; K: kebutuhan dan risiko; S: uji terbatas | Pertanyaan pain point dan biaya | Angka pesan/pesanan dan syarat layak |
+| Attention | Fajar tidak punya banyak waktu | A/K: langsung ke manfaat yang relevan | Pembuka satu menit | Data operasional singkat |
+| Interest | Ingin mengurangi pesan terlewat | K: kaitkan dengan alur kerja nyata | Tanyakan WhatsApp/Instagram, Notes, spreadsheet | Alur saat ini dipahami |
+| Desire | Ingin manfaat tanpa beban baru | A/K/S: transparansi batas, dummy data | Uji 15 menit | Persetujuan sukarela |
+| Action | Perlu KPI, fallback, dan kill-switch | S: uji end-to-end dan pilot terbatas | Revisi, uji ulang, pilot 3–5 hari | Keputusan berbasis bukti |
+
+# C) Skrip Percakapan
+
+Transkrip berikut mempertahankan percakapan aktual. U adalah mahasiswa dan AI adalah fasilitator/simulator. Fajar adalah customer simulasi; sistem nyata tidak dibuat atau dipasang melalui sesi ini.
+
+## Simulasi awal dan penggalian kebutuhan
+
+**AI001 sebagai Fajar:** “Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu.”
+
+**U001 — Tujuan dan pembuka:** Mahasiswa menyatakan tujuan membangun kepercayaan, menemukan pain point pesan dan pesanan, serta mengestimasi kerugian sebelum menawarkan TI/AI. Ia menjelaskan bahwa solusi tidak akan dipaksakan dan meminta perkiraan pesan berulang per hari serta pesanan/omzet yang hilang per minggu.
+
+**AI002 sebagai Fajar:** Menyebut 40–60 pesan berulang per hari dan 5–7 pesanan terlambat/batal dalam seminggu, tetapi belum memiliki catatan rapi. Ia khawatir solusi menambah input atau memberi jawaban salah.
+
+**U002 — Urutan klarifikasi:** Mahasiswa memilih mengklarifikasi kekhawatiran beban input dan akurasi, kemudian alur pesan/pesanan, lalu biaya kesalahan. Ia mengakui risiko, tetapi sempat menyatakan sistem ideal tidak menambah input manual dan dapat memilah pesan otomatis.
+
+**AI003 sebagai Fajar:** Menjelaskan bahwa pesan masuk dari WhatsApp dan Instagram; pesanan disalin ke Notes lalu malamnya dipindahkan ke spreadsheet. Ia menegur bahwa integrasi otomatis belum diuji dan tidak ingin janji yang belum terbukti.
+
+**U003 — Koreksi klaim:** Mahasiswa meminta maaf dan mengakui klaim integrasi otomatis terlalu cepat. Ia menjelaskan risiko API dan duplikasi data, lalu menawarkan simulasi 15 menit memakai dummy data: lima FAQ, satu format pesanan, uji variasi chat, dan evaluasi spreadsheet tanpa data pelanggan nyata. Fajar dapat membatalkan jika sistem kaku, merepotkan, atau membingungkan.
+
+**AI004 sebagai Fajar:** Meminta ukuran keberhasilan yang jelas, dasar pemilihan lima pertanyaan, dan definisi format pesanan yang benar.
+
+**U004 — Kriteria awal:** Lima topik diambil dari pertanyaan paling sering: harga, lokasi/ongkir, pemesanan, stok, dan pembayaran. Di luar lima topik bot harus menolak menjawab dan mengalihkan. Lolos berarti akurasi 100%, kolom Nama/HP/Alamat/Barang benar, dan zero double input. Fajar menjadi validator tunggal; jika gagal, uji dihentikan.
+
+**AI005 sebagai Fajar:** Meminta fallback yang benar-benar memberi notifikasi dan meminta setup/maintenance ikut diukur.
+
+**U005 — Batas tambahan:** Pertanyaan di luar topik tidak boleh dijawab dengan tebakan; bot harus mengirim pesan pengalihan dan alert. Setup lima jawaban dan template spreadsheet dibatasi 10–15 menit. Perubahan harga/stok harus cukup dengan mengedit satu baris. Jika akurasi lolos tetapi setup/maintenance membebani, solusi tetap tidak layak.
+
+**AI006 sebagai Fajar:** Menyetujui kriteria dan bersedia memulai simulasi dengan data dummy.
+
+## Evaluasi sementara
+
+**AI007:** Meminta evaluasi tujuan, efektivitas pesan, risiko klaim awal, perubahan ASK, dan dampak pesan relasional.
+
+**U006 — Evaluasi:** Tujuan penggalian, koreksi klaim, uji dummy, indikator ketat, fallback, dan kriteria gagal tercapai dalam perencanaan. Performa nyata bot dan spreadsheet belum terbukti. Risiko utama adalah overpromising integrasi dan kesalahan API. Pesan efektif adalah pengakuan kesalahan dan hak Fajar untuk membatalkan; asumsi sistem otomatis adalah stimulus tidak efektif.
+
+Mahasiswa menilai Fajar menjadi lebih kooperatif dan analitis, memahami fallback dan pilot, serta mampu menetapkan KPI. Semua perubahan masih berbasis percakapan simulatif.
+
+## Uji ulang
+
+**AI008 sebagai Fajar:** Hasil uji awal: empat dari lima FAQ tepat; jawaban ongkir terlalu umum; fallback terlambat dua menit; nomor HP kehilangan angka nol; setup 14 menit; maintenance satu baris mudah.
+
+**U007 — Keputusan revisi:** Mahasiswa menolak lulus terbatas dan memilih revisi lalu uji ulang karena tiga kegagalan melanggar kriteria. Ia menetapkan format kontak sebagai Plain Text, memperbaiki trigger alert tanpa mengasumsikan layanan berbayar tersedia, dan memperluas intent ongkir sambil meminta kecamatan.
+
+**AI009 sebagai Fajar:** Menyetujui 10 menit perbaikan, tetapi meminta akses/biaya tidak diasumsikan dan ingin mencatat waktu notifikasi, format HP, serta dua variasi ongkir.
+
+**U008 — Rencana uji ulang:** Tiga menit: menit pertama menguji nomor `08123456789`; menit kedua menguji pertanyaan di luar cakupan dengan stopwatch; menit ketiga menguji dua variasi ongkir. Bukti dicatat dalam tabel. Keputusan lulus hanya jika empat dari empat indikator lolos; satu kegagalan berarti solusi dihentikan.
+
+**AI010 sebagai Fajar:** Hasil uji ulang: nomor HP utuh, fallback 8 detik, dua variasi ongkir tepat, sehingga 4/4 lolos. Fajar bersedia mempertimbangkan pilot terbatas, tetapi belum memasang ke akun nyata sebelum akses, biaya, dan penghentian didokumentasikan.
+
+**U009 — Penutupan terbatas:** Mahasiswa membatasi pilot pada satu nomor/jalur uji selama 3–5 hari, tanpa akun WA/IG utama. Risiko jaringan dan variasi bahasa dijelaskan. Tools dinyatakan tanpa biaya langganan rahasia; kill-switch harus mengembalikan alur manual dalam satu klik. Mahasiswa menawarkan dokumen ringkas akses, biaya, dan kill-switch sebelum pilot.
+
+## Refleksi dan konfirmasi
+
+**AI011:** Meminta refleksi akhir tentang ASK, tujuan, kesalahan klaim, stimulus, indikator pilot, kill-switch, dan pesan relasional.
+
+**U010 — Refleksi:** Mahasiswa bergeser dari hard-selling dan overpromising menjadi transparan, objektif, dan menghargai efisiensi. Ia memahami end-to-end testing, API/jaringan, kill-switch, dan kriteria berbasis beban kerja. Fajar dalam simulasi berubah dari skeptis menjadi analitis dan terbuka pada pilot berbasis data. Tujuan dinilai tercapai penuh dalam simulasi, tetapi pilot nyata belum terbukti.
+
+Tindak lanjut: mahasiswa mengirim dokumen transparansi; Fajar mempelajari dan memilih jalur uji; pilot berlangsung 3–5 hari jika disetujui. Indikator: akurasi chat 100%, fallback <10 detik, format HP utuh, dan tidak ada beban input baru. Kill-switch dipakai jika delay >30 detik dua kali sehari atau satu pesanan gagal tercatat.
+
+Pesan paling membantu adalah pengakuan jujur bahwa sistem belum lolos pada uji pertama dan hak Fajar untuk membatalkan. Bukti simulatif: Fajar menyebut keputusan fair dan mempertimbangkan pilot.
+
+**AI012:** Meminta konfirmasi ringkasan, batas bukti, dan skor usulan.
+
+**U011 — Konfirmasi:** Mahasiswa menyetujui ringkasan, batas bukti, dan skor enam dimensi 4/4 untuk moderasi dosen.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan percakapan **tercapai penuh dalam simulasi**, dengan batas bahwa pilot nyata, akses API, biaya aktual, dan konsistensi 3–5 hari belum terverifikasi.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT Fajar | Peluang bila hasil cepat; dokumentasi lemah; ancaman beban baru | Lebih aman dengan dummy test, KPI, fallback, pilot, dan kill-switch | U001–U010 | Profil dan simulasi |
+| Attitude | Skeptis, terburu-buru, menolak risiko | Kooperatif dan terbuka pada uji bertahap | AI002, AI006, AI010 | Perubahan simulatif |
+| Knowledge | Risiko integrasi dan fallback belum jelas | Memahami KPI, data entry, pilot, dan kill-switch | U003–U008 | Bukti percakapan |
+| Skill | Perlu demo dan checklist | Mampu menetapkan kriteria dan menegakkan batas penghentian | AI004–AI010 | Simulasi; bukan bukti penggunaan nyata |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U001–U003 | Fajar ingin manfaat cepat dan khawatir beban | Pertanyaan pain point dan pengakuan batas | Memberi angka pesan/pesanan dan alur kerja | Kebutuhan terbuka | Klaim awal dikoreksi |
+| U003–U005 | Risiko integrasi dan jawaban salah | Dummy test, fallback, dan kriteria gagal | Menyetujui evaluasi berbasis data | A dan K simulatif membaik | Cakupan dipersempit |
+| U007–U008 | Uji awal gagal di tiga indikator | Revisi data, alert, dan intent ongkir | Bersedia menguji ulang | S diperlakukan realistis | Tidak memaksa lulus |
+| U008–U010 | Uji ulang 4/4 lolos | Pilot terbatas dan kill-switch | Mempertimbangkan pilot dengan syarat | Kepercayaan simulatif meningkat | Produksi ditunda |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak dan batas inferensi |
+|---|---|---|---|---|
+| U003 | Mengakui klaim belum teruji dan tidak memaksa pembelian | Fajar menerima dummy test | Simulasi: rendah → sedang | Kepercayaan meningkat karena transparansi |
+| U007–U008 | Menghormati waktu dan menetapkan hak membatalkan | Fajar meminta parameter lebih ketat dan mau uji ulang | Simulasi: keterbukaan tinggi | Tidak membuktikan minat membeli |
+| U009–U010 | Menunda produksi dan menawarkan kill-switch | Fajar bersedia mempertimbangkan pilot | Simulasi: kepercayaan sedang → tinggi | Pilot tetap bersyarat |
+
+## Uji ulang dan pembelajaran
+
+Uji ulang berhasil menunjukkan adaptasi: mahasiswa tidak menutupi tiga kegagalan awal, memperbaiki format, alert, dan intent, lalu menetapkan uji end-to-end dengan stopwatch dan bukti. Ketika 4/4 indikator lolos, ia tetap membatasi cakupan ke pilot dan tidak mengklaim kesiapan produksi. Batasnya adalah seluruh hasil masih simulatif.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4/4 | U001–U004 | Pain point, waktu, risiko, dan tujuan keputusan digali sebelum solusi |
+| Persepsi dan validasi profil/status | 4/4 | U002–U003, U006 | Kekhawatiran beban dan akurasi diakui serta klaim dikoreksi |
+| Pemilihan dan urutan repertoar | 4/4 | U001–U008 | Kebutuhan → batas → dummy test → KPI → revisi → uji ulang |
+| Eksekusi jelas, peduli dan konsisten | 4/4 | U003–U009 | Uji, fallback, bukti, batas risiko, dan kill-switch dinyatakan konkret |
+| Evaluasi dan adaptasi | 4/4 | U007–U009 | Tiga kegagalan memicu revisi; 4/4 lolos memicu pilot terbatas, bukan produksi |
+| Refleksi dan lesson learned | 4/4 | U010–U011 | Refleksi mengakui overpromise, batas teknis, risiko, dan relasi |
+
+Nilai usulan AI: **24/24 × 100 = 100**. Nilai ini memerlukan moderasi dosen.
+
+## Refleksi dan lesson learned mahasiswa
+
+Mahasiswa belajar bahwa klaim integrasi harus diuji sebelum ditawarkan. Permintaan maaf dan transparansi dapat memperbaiki kepercayaan, tetapi tidak menggantikan bukti teknis. Uji harus memiliki cakupan, KPI, fallback, validator, batas setup, dan kill-switch. Lulus simulasi tidak sama dengan siap produksi; pilot bertahap diperlukan.
+
+## Tindak lanjut dan batas bukti
+
+Mahasiswa menyiapkan dokumen akses/biaya/kill-switch. Fajar membaca dokumen dan menentukan jalur uji. Jika disetujui, pilot dummy/terbatas berlangsung 3–5 hari. Indikator: akurasi 100%, fallback <10 detik, nomor HP utuh, dan tidak ada input baru. Penghentian: delay >30 detik dua kali sehari atau satu pesanan salah tercatat.
+
+Tidak ada akun pelanggan nyata, data pelanggan nyata, pemasangan API, atau verifikasi biaya dalam sesi ini. Semua bot, stopwatch, hasil 4/4, dan respons Fajar merupakan simulasi teks. Tidak boleh dipahami sebagai bukti kesiapan produksi.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum tersedia |
+| Sesi 1 | 18% | 100 (usulan AI; moderasi dosen diperlukan) |
+| Sesi 2a | 18% | 100 (usulan AI; moderasi dosen diperlukan) |
+| Sesi 2b | 18% | 100 (usulan AI; moderasi dosen diperlukan) |
+| Sesi 3a | 18% | 100 (usulan AI; moderasi dosen diperlukan) |
+| Sesi 3b | 18% | Belum tersedia |
+| **Total** | **100%** | **Belum dihitung** |
+
+Nilai akhir UTS tetap **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia. Komponen yang belum tersedia tidak dianggap nol dan bobot tidak dinormalisasi ulang. Rata-rata sesi 2a/2b dan 3a/3b hanya menjadi ringkasan Kasus 2 dan 3.
