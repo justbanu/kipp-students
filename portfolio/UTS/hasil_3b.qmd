@@ -1,0 +1,182 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Banu Agil Triyanto |
+| NIM | 18225109 |
+| Kelas dan tanggal | 01; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 — Menawarkan solusi TI dan AI |
+| Nama dan ID target | Ali (K3-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam `PENUGASAN.md` |
+| Modalitas | Teks; sumber transkripsi: percakapan chat aktual |
+| Kasus nyata/fiktif | Situasi customer/pengelola usaha bersifat simulasi fiktif |
+| Kelengkapan transkrip | Lengkap untuk percakapan sesi ini sejak simulasi sampai konfirmasi |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Ali mengelola usaha dengan pesan pelanggan berulang dan pesanan tercecer. Ia belum memahami TI/AI dan takut salah menekan atau membuat staf bingung. Tujuan mahasiswa adalah menurunkan tech anxiety, menjelaskan manfaat dan batas sistem dengan bahasa sederhana, mendemonstrasikan alur dummy, dan menetapkan fallback yang tidak membuat sistem menebak atau mengambil keputusan sendiri.
+
+Indikator keberhasilan: kartu pesanan memuat nama, nomor HP, pesanan, dan alamat; staf dapat memeriksa dalam kurang dari 10 detik; tidak ada aplikasi baru; pesan ganda diperiksa manual; data kurang diberi tanda dan ditindaklanjuti manusia. Pelaksanaan nyata belum terverifikasi.
+
+## Profil awal target
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Ada peluang tetapi merasa belum mampu; mampu langkah dasar; perlu demo/pelatihan; takut staf tidak sanggup | Profil K3-01; AI001 | Profil simulasi |
+| Attitude | Ingin berkembang tetapi takut gagal dan salah menekan | Profil K3-01; AI001 | Profil simulasi |
+| Knowledge | Memahami manfaat secara umum, tetapi prosedur TI/AI belum dipahami | Profil K3-01 | Profil simulasi |
+| Skill | Mampu langkah dasar; perlu demo dan pelatihan kecil | Profil K3-01 | Profil simulasi |
+| Preferensi/MBTI jika dilaporkan | Makna personal, pertanyaan lembut, waktu berpikir; MBTI tidak didiagnosis | Profil K3-01 | Konfigurasi simulasi, bukan diagnosis |
+| Karakter, peran, kultur/ko-kultur | Pengelola usaha; menjaga harmoni dan enggan mempermalukan staf | Profil K3-01 | Simulasi |
+
+## Dugaan awal profil dan rencana TAIDA
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Ali berani mencoba alur sederhana | A: validasi takut; K: jelaskan batas; S: demo kecil | Pertanyaan lembut dan dummy test | Ali menyetujui langkah kecil |
+| Attention | Takut salah dan membuat staf bingung | A/K: gunakan bahasa nonteknis | Metafora “asisten magang” | Kekhawatiran dijelaskan |
+| Interest | Ingin pesan tidak terlewat | K: tunjukkan kartu WA | Contoh kartu | Ali melihat manfaat |
+| Desire | Ingin kontrol tetap di tangan manusia | A/S: fallback dan tanpa aplikasi baru | Demo 3 pesan | Ali mau menguji |
+| Action | Perlu aturan manual, prioritas, dan pelatihan | S: kartu instruksi dan demo | Data dummy, fallback, check-list | Staf dapat mengikuti alur simulatif |
+
+# C) Skrip Percakapan
+
+Transkrip berikut mempertahankan percakapan aktual. U adalah mahasiswa dan AI adalah fasilitator/simulator. Ali dan staf adalah tokoh simulasi; tidak ada sistem nyata yang dipasang.
+
+## Simulasi awal
+
+**AI001 sebagai Ali:** “Terima kasih, tetapi saya belum yakin bisa melakukannya.”
+
+**U001 — Tujuan dan pembuka:** Mahasiswa menyatakan tujuan memvalidasi tech anxiety dan menunjukkan bahwa solusi tidak memerlukan coding atau aplikasi rumit. Ia menjelaskan sistem harus menyesuaikan kebiasaan Ali, lalu bertanya apa yang paling ditakuti dan bagaimana pesanan dicatat saat ini.
+
+**AI002 sebagai Ali:** Menjelaskan takut salah menekan dan membuat staf bingung; ia belum memahami AI. Pesanan dicatat di buku kecil atau diteruskan lewat WhatsApp, dan kadang terlewat.
+
+**U002 — Penjelasan sederhana:** Mahasiswa memakai metafora “asisten magang digital”. Sistem hanya membalas pertanyaan umum dan merapikan pesanan untuk diteruskan ke Ali/staf. Sistem tidak mengubah harga, membatalkan pesanan, atau menebak pertanyaan aneh. Mahasiswa menggali apakah pesan paling sering terlewat saat membalas atau memindahkan pesanan ke buku.
+
+**AI003 sebagai Ali:** Menyatakan masalah terbesar terjadi saat menyalin detail pesanan dari WhatsApp ke buku. Ia takut staf tidak sanggup mengikuti format baru dan meminta demo kecil.
+
+**U003 — Simulasi tiga menit:** Mahasiswa menawarkan data dummy: Ali berpura-pura menjadi pelanggan, mengirim satu chat ke nomor uji, sistem merapikan menjadi kartu, dan satu staf menjadi penerima. Staf tetap menggunakan WhatsApp dan tidak perlu aplikasi baru.
+
+**AI004 sebagai Ali:** Menilai contoh mudah dipahami, tetapi format belum memuat nama/nomor pelanggan dan belum jelas apakah staf dapat memeriksa cepat.
+
+**U004 — Format dan indikator:** Mahasiswa menambahkan Nama, No. HP, Pesanan, dan Alamat ke kartu. Uji dianggap berhasil jika empat data lengkap, staf memahami dalam kurang dari 10 detik, dan tidak ada aplikasi baru. Ia meminta satu staf mencoba satu pesan dummy.
+
+**AI005 sebagai Ali:** Menyatakan staf dapat memahami kartu, tetapi bertanya apa yang terjadi jika alamat tidak lengkap.
+
+**U005 — Fallback:** Mahasiswa menegaskan sistem tidak boleh menebak. Kartu diberi tanda “PESANAN BELUM LENGKAP” dan staf diminta menghubungi pelanggan melalui WhatsApp untuk meminta data yang hilang. Keputusan tetap di tangan manusia.
+
+**AI006 sebagai Ali:** Meminta aturan untuk kondisi ramai: sepuluh pesan, dua kartu tidak lengkap, dan satu pesan ganda.
+
+**U006 — Aturan awal:** Mahasiswa mengusulkan prioritas kartu lengkap, pesan ganda, lalu kartu belum lengkap. Ia sempat mengasumsikan sistem otomatis menggabungkan pesan ganda dan menyediakan tombol balasan cepat.
+
+## Evaluasi sementara
+
+**AI007:** Meminta evaluasi tujuan, efektivitas metafora dan demo, risiko klaim otomatisasi, perubahan ASK, serta dampak relasional.
+
+**U007 — Evaluasi:** Tujuan menurunkan tech anxiety, menemukan masalah salin WA-ke-buku, menambah identitas kartu, dan menyiapkan fallback tercapai dalam simulasi. Staf menangani puluhan pesan nyata belum terverifikasi. Metafora asisten magang dan WhatsApp tanpa aplikasi baru efektif. Risiko terbesar adalah over-expectation dan klaim otomatisasi yang belum diuji. Ali menjadi lebih tenang, memahami sistem sebagai perapi format, dan mampu mengkritisi format/fallback.
+
+## Uji ulang
+
+**AI008 sebagai Ali:** Mengoreksi asumsi bahwa sistem dapat menggabungkan pesan ganda dan menyediakan tombol balasan otomatis; ia meminta demo tiga pesan dummy.
+
+**U008 — Koreksi dan demo:** Mahasiswa meminta maaf dan mengubah aturan menjadi manual: kartu lengkap diproses; pesan ganda diperiksa berdasarkan nama/nomor dan pesan terakhir; kartu tidak lengkap ditindaklanjuti manual. Demo memakai tiga pesan dummy: Pelanggan A lengkap, Pelanggan B tanpa alamat, dan revisi Pelanggan A.
+
+**AI009 sebagai Ali:** Menyetujui aturan manual dan menyatakan staf dapat memilah tiga pesan dummy dalam kurang dari satu menit.
+
+## Refleksi dan konfirmasi
+
+**AI010:** Meminta refleksi akhir tentang ASK, tujuan, klaim yang dikoreksi, stimulus, tindak lanjut, fallback, dan pesan relasional.
+
+**U009 — Refleksi:** Mahasiswa bergeser dari feature-pushing dan overclaim ke psychological safety, kesederhanaan, dan kejujuran batas teknis. Ia memahami pengujian low-tech/no-tech dan aturan prioritas manual. Ali dalam simulasi menjadi lebih percaya diri dan mampu menguji klaim fitur. Tujuan dinilai tercapai penuh dalam simulasi, tetapi uji nyata staf dan 10–15 pesan operasional belum terbukti.
+
+Tindak lanjut: mencetak kartu “Aturan Prioritas 3 Lapis Manual” dan menguji 10–15 pesan pelanggan pertama dengan pengawasan Ali. Indikator: memilah dalam kurang dari 10 detik per pesan tanpa terlewat. Fallback: kartu tanpa alamat diproses setelah kartu lengkap, lalu staf meminta data secara manual.
+
+Pesan paling membantu adalah pengakuan atas kritik Ali dan jaminan bahwa sistem tidak mengambil keputusan tanpa persetujuan. Bukti simulatifnya: Ali menyatakan aturan manual lebih aman.
+
+**AI011:** Meminta konfirmasi ringkasan, batas bukti, dan skor usulan.
+
+**U010 — Konfirmasi:** Mahasiswa menyetujui ringkasan, batas bukti, dan skor enam dimensi 4/4 untuk moderasi dosen.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan **tercapai penuh dalam simulasi**, dengan batas bahwa demo nyata, kapasitas staf, dan penerapan 10–15 pesan operasional belum terverifikasi.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT Ali | Ada peluang tetapi merasa belum mampu; perlu demo; takut staf gagal | Lebih aman dengan kartu sederhana, fallback, dan aturan manual | U001–U009 | Profil dan simulasi |
+| Attitude | Cemas dan takut salah pencet | Lebih tenang, ingin mencoba, dan mampu menetapkan batas | AI002, AI004, AI009 | Perubahan simulatif |
+| Knowledge | Manfaat umum dipahami, prosedur belum jelas | Memahami perapi format, batas AI, dan fallback | U002, U005, U008 | Bukti percakapan |
+| Skill | Perlu demo kecil | Mampu menguji format, mengkritik fitur, dan memandu prioritas manual | AI004–AI009 | Simulasi; operasional nyata belum dibuktikan |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U001–U003 | Ali takut teknologi dan staf bingung | Validasi dan metafora sederhana | Menjelaskan alur buku/WhatsApp | A lebih aman; kebutuhan terbuka | Demo dipilih |
+| U003–U005 | Ali membutuhkan contoh nyata | Demo dummy dan kartu lengkap | Meminta nama/HP dan fallback | K bertambah | Format diperbaiki |
+| U006–U008 | Kondisi ramai menguji batas sistem | Koreksi klaim otomatisasi dan aturan manual | Ali meminta tiga pesan dummy | Kepercayaan dipertahankan | Fitur tak teruji dihapus |
+| AI009 | Demo manual dianggap mudah | Prioritas 1-2-3 | Ali menyatakan staf mampu memilah | S/kesiapan simulatif membaik | Uji nyata ditunda |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak dan batas inferensi |
+|---|---|---|---|---|
+| U001–U003 | Mengakui takut salah dan menyesuaikan sistem dengan kebiasaan Ali | Ali menjelaskan alur dan bersedia mencoba | Simulasi: rendah → sedang | Tidak mengukur kecemasan nyata |
+| U005 | Menjamin sistem tidak menebak dan kontrol tetap pada staf | Ali mengajukan skenario ramai | Simulasi: keterbukaan meningkat | Kekhawatiran tidak dihapus secara paksa |
+| U008 | Mengakui klaim otomatisasi belum diuji dan mengubahnya menjadi manual | Ali menyetujui aturan yang benar-benar diuji | Simulasi: kepercayaan meningkat | Belum membuktikan adopsi |
+
+## Uji ulang dan pembelajaran
+
+Uji ulang memperbaiki asumsi otomatisasi penggabungan pesan dan tombol balasan. Mahasiswa meminta maaf, menghapus klaim yang belum diuji, dan merancang demo tiga pesan dummy: lengkap, tidak lengkap, dan revisi ganda. Aturan manual menjaga keputusan di tangan staf dan lebih sesuai dengan kebutuhan pelatihan kecil. Bukti tetap simulatif.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4/4 | U001–U004 | Tech anxiety, alur kerja, target demo, dan batas keputusan dipahami |
+| Persepsi dan validasi profil/status | 4/4 | U001–U003, U007–U008 | Keraguan Ali divalidasi; kritik diterima tanpa defensif |
+| Pemilihan dan urutan repertoar | 4/4 | U001–U008 | Validasi → metafora → demo → fallback → koreksi manual |
+| Eksekusi jelas, peduli dan konsisten | 4/4 | U002–U005, U008 | Bahasa sederhana, kartu konkret, dan kontrol manusia dijelaskan |
+| Evaluasi dan adaptasi | 4/4 | U007–U008 | Klaim fitur dikoreksi dan uji tiga pesan dirancang |
+| Refleksi dan lesson learned | 4/4 | U009–U010 | Refleksi membahas overclaim, psychological safety, tindak lanjut, dan batas |
+
+Nilai usulan AI: **24/24 × 100 = 100**. Nilai ini memerlukan moderasi dosen.
+
+## Refleksi dan lesson learned mahasiswa
+
+Mahasiswa belajar bahwa rasa aman dan kesederhanaan lebih penting daripada fitur canggih. Teknologi harus diuji pada skenario low-tech sebelum fitur otomatis dijanjikan. Mengakui kesalahan secara terbuka menjaga kepercayaan, sedangkan klaim penggabungan otomatis dan tombol balasan tanpa uji dapat mengembalikan kecemasan. Aturan manual 1-2-3 memberi Ali dan staf kontrol yang jelas.
+
+## Tindak lanjut dan batas bukti
+
+Cetak aturan prioritas manual, lalu lakukan uji terbatas terhadap 10–15 pesan dengan pengawasan Ali. Indikator: staf membaca dan memilah kurang dari 10 detik per pesan tanpa ada pesanan terlewat. Kartu tanpa alamat diberi tanda, diproses setelah kartu lengkap, lalu ditindaklanjuti manual. Pesan ganda tidak otomatis digabung; staf memeriksa nama/nomor dan pesan terakhir.
+
+Tidak ada akun nyata, data pelanggan nyata, integrasi produksi, atau pengukuran staf sungguhan dalam sesi ini. “Berhasil” berarti Ali menyetujui alur simulatif, bukan bukti sistem siap digunakan di lapangan.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum tersedia |
+| Sesi 1 | 18% | 100 (usulan AI; moderasi dosen diperlukan) |
+| Sesi 2a | 18% | 100 (usulan AI; moderasi dosen diperlukan) |
+| Sesi 2b | 18% | 100 (usulan AI; moderasi dosen diperlukan) |
+| Sesi 3a | 18% | 100 (usulan AI; moderasi dosen diperlukan) |
+| Sesi 3b | 18% | 100 (usulan AI; moderasi dosen diperlukan) |
+| **Total** | **100%** | **Belum dihitung** |
+
+Nilai akhir UTS tetap **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia. Komponen yang belum tersedia tidak dianggap nol dan bobot tidak dinormalisasi ulang. Rata-rata sesi 2a/2b dan 3a/3b hanya menjadi ringkasan Kasus 2 dan 3.
