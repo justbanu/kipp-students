@@ -1,0 +1,54 @@
+---
+title: "Portfolio Minggu 8 — UTS KIPP"
+week: 8
+status: "Selesai; menunggu penilaian dosen dan unggah portal"
+self_score: "Belum diisi"
+assessor_score: "—"
+description: "Makalah pra-UTS dan lima laporan kasus individual."
+categories: [Assessment, UTS]
+---
+
+::: {.callout-tip title="Status pengerjaan"}
+Instruksi UTS dan lima ZIP untuk NIM 18225109 sudah dibaca. Makalah dan lima laporan diisi berdasarkan percakapan teks aktual. Transkrip lengkap berada di masing-masing laporan. Pengunggahan ke portal akademik belum dilakukan otomatis.
+:::
+
+## Identitas dan status paket
+
+| Elemen | Isi mahasiswa |
+|---|---|
+| Nama | Banu Agil Triyanto |
+| NIM | 18225109 |
+| Kelas | 01 |
+| Periode/tanggal pelaksanaan | 15 Oktober 2026; modalitas teks |
+| Versi bank/paket aktif | Bank 2.0; paket individual 2.0 |
+| Status pengumpulan | Berkas siap; belum diunggah ke portal akademik |
+
+## Makalah dan lima laporan
+
+| Tahap | Berkas | Target | Status | Catatan |
+|---|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian MBTI/PASK | Selesai | Kajian konseptual; menunggu nilai dosen |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; Dimas (K1-04) | Selesai | Usulan AI 100; moderasi dosen |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Fajar (K2-06) | Selesai | Usulan AI 100; moderasi dosen |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Cyntia (K2-03) | Selesai | Usulan AI 100; moderasi dosen |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Fajar (K3-06) | Selesai | Usulan AI 100; pilot nyata belum terverifikasi |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Ali (K3-01) | Selesai | Usulan AI 100; demo nyata belum terverifikasi |
+
+## Refleksi lintas sesi
+
+Kelima sesi menunjukkan pola pembelajaran yang sama: validasi kebutuhan perlu mendahului solusi; klaim harus dibatasi oleh bukti; dan adaptasi dinilai dari respons terhadap kendala baru. Pada Kasus 1, fokusnya adalah regulasi diri. Pada Kasus 2, fokusnya adalah akuntabilitas, atribusi, dan perlindungan relasi. Pada Kasus 3, fokusnya adalah transparansi teknologi, uji dummy, fallback, dan keputusan untuk tidak mengklaim kesiapan produksi.
+
+## Rekap nilai komponen
+
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
+|---|---:|---|---:|---|---|
+| Makalah | 10% | — | — | — | Menunggu nilai resmi dosen |
+| Sesi 1 | 18% | — | 100 | — | Usulan AI; moderasi dosen |
+| Sesi 2a | 18% | — | 100 | — | Usulan AI; moderasi dosen |
+| Sesi 2b | 18% | — | 100 | — | Usulan AI; moderasi dosen |
+| Sesi 3a | 18% | — | 100 | — | Usulan AI; moderasi dosen |
+| Sesi 3b | 18% | — | 100 | — | Usulan AI; moderasi dosen |
+
+**Nilai akhir UTS resmi:** Belum dihitung. Nilai makalah dosen dan lima nilai sesi resmi belum tersedia; usulan AI bukan nilai resmi dan tidak menggantikan moderasi dosen.
+
+{{< include "../includes/uts-penilaian.md" >}}
