@@ -36,7 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../assessment/index.html" rel="prev">
+<link href="../assessment/tasks.html" rel="prev">
 <link href="../assets/logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -122,6 +122,14 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Lembar Kerja</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../slides.html"> 
+<span class="menu-text">Slide</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../slides-pdf/index.html"> 
+<span class="menu-text">Slide PDF</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link active" href="../assessment/index.html" aria-current="page"> 
 <span class="menu-text">Assessment</span></a>
   </li>  
@@ -162,6 +170,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../assessment/tasks.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Status Tugas A01–A15</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../assessment/rubric.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Rubrik Universal</span></a>
   </div>
@@ -179,6 +193,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#tingkat-pencapaian" id="toc-tingkat-pencapaian" class="nav-link active" data-scroll-target="#tingkat-pencapaian">Tingkat pencapaian</a></li>
   <li><a href="#dimensi-penilaian" id="toc-dimensi-penilaian" class="nav-link" data-scroll-target="#dimensi-penilaian">Dimensi penilaian</a></li>
   <li><a href="#perhitungan" id="toc-perhitungan" class="nav-link" data-scroll-target="#perhitungan">Perhitungan</a></li>
+  <li><a href="#bobot-dan-nilai-akhir-uts" id="toc-bobot-dan-nilai-akhir-uts" class="nav-link" data-scroll-target="#bobot-dan-nilai-akhir-uts">Bobot dan nilai akhir UTS</a></li>
   </ul>
 </nav>
     </div>
@@ -204,6 +219,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>Rubrik lima dimensi dan total /20 berikut berlaku untuk performance mingguan selain UTS. UTS memakai enam dimensi, skor 1–4/BT, dan nilai sesi /24 × 100 sesuai paket aktif. Ambang pencapaian rubrik universal tidak diterapkan otomatis pada UTS.</p>
 <section id="tingkat-pencapaian" class="level2">
 <h2 class="anchored" data-anchor-id="tingkat-pencapaian">Tingkat pencapaian</h2>
 <table class="caption-top table">
@@ -331,6 +347,58 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 <p>Skor tidak berdiri sendiri. Assessor tetap memberikan evidence yang mendukung skor dan satu prioritas perbaikan.</p>
+</section>
+<section id="bobot-dan-nilai-akhir-uts" class="level2">
+<h2 class="anchored" data-anchor-id="bobot-dan-nilai-akhir-uts">Bobot dan nilai akhir UTS</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Komponen</th>
+<th style="text-align: right;">Bobot</th>
+<th>Nilai komponen</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Makalah pra-UTS (<code>paper.qmd</code>)</td>
+<td style="text-align: right;">10%</td>
+<td>Nilai dosen pada skala 0–100</td>
+</tr>
+<tr class="even">
+<td>Sesi 1</td>
+<td style="text-align: right;">18%</td>
+<td>Jumlah enam skor / 24 × 100</td>
+</tr>
+<tr class="odd">
+<td>Sesi 2a</td>
+<td style="text-align: right;">18%</td>
+<td>Jumlah enam skor / 24 × 100</td>
+</tr>
+<tr class="even">
+<td>Sesi 2b</td>
+<td style="text-align: right;">18%</td>
+<td>Jumlah enam skor / 24 × 100</td>
+</tr>
+<tr class="odd">
+<td>Sesi 3a</td>
+<td style="text-align: right;">18%</td>
+<td>Jumlah enam skor / 24 × 100</td>
+</tr>
+<tr class="even">
+<td>Sesi 3b</td>
+<td style="text-align: right;">18%</td>
+<td>Jumlah enam skor / 24 × 100</td>
+</tr>
+<tr class="odd">
+<td><strong>Total</strong></td>
+<td style="text-align: right;"><strong>100%</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)</strong>, dengan seluruh nilai komponen pada skala 0–100.</p>
+<p>Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia tidak dianggap nol dan bobot tidak dinormalisasi ulang. Nilai akhir ditulis <strong>Belum dihitung</strong> sampai nilai makalah dan kelima sesi tersedia.</p>
+<p>Rata-rata sesi 2a/2b dan 3a/3b hanya menjadi ringkasan Kasus 2 dan 3; ringkasan tidak dihitung sebagai komponen tambahan. Rubrik makalah tidak boleh digantikan oleh rubrik performance enam dimensi. Semua usulan skor AI memerlukan moderasi dosen.</p>
 
 
 </section>
@@ -738,8 +806,8 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../assessment/index.html" class="pagination-link" aria-label="Assessment Pencapaian">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Assessment Pencapaian</span>
+      <a href="../assessment/tasks.html" class="pagination-link" aria-label="Status Tugas A01–A15">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Status Tugas A01–A15</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
