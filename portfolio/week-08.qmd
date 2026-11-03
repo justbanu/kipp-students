@@ -1,7 +1,7 @@
 ---
 title: "UTS Performance Evidence Package"
 week: 8
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Integrated performance Target–Attention–Interest."
@@ -22,4 +22,69 @@ Mengintegrasikan person recognition, state recognition, repertoire, language, re
 [Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Paket UTS tersimpan dengan tanggal 15 Oktober 2026 dan modalitas teks, sesuai dokumen yang sudah ada di repository.
+
+**Persons dan relationship:** Banu Agil Triyanto, NIM 18225109, sebagai peserta; Dimas, Fajar, Cyntia, dan Ali sebagai karakter kasus dalam paket individual.
+
+**Objective dan initial state:** Mengintegrasikan pengenalan person, pembacaan state, dan adaptasi dalam lima kasus. Dokumen sumber menyebut sesi berbasis teks; pelaksanaan pilot atau demo dunia nyata belum terverifikasi.
+
+## Evidence
+
+::: {.evidence-block}
+| Berkas | Fokus |
+|---|---|
+| [Makalah pra-UTS](UTS/paper.qmd) | MBTI, komunikasi adaptif, PASK |
+| [Kasus 1](UTS/hasil_1.qmd) | Regulasi diri dan Dimas |
+| [Kasus 2a](UTS/hasil_2a.qmd) | Fajar dan akuntabilitas |
+| [Kasus 2b](UTS/hasil_2b.qmd) | Cyntia, atribusi, dan relasi |
+| [Kasus 3a](UTS/hasil_3a.qmd) | Fajar, pilot, dan batas bukti |
+| [Kasus 3b](UTS/hasil_3b.qmd) | Ali, demo, dan transparansi |
+
+Transkrip dan refleksi mengikuti laporan sumber yang dipertahankan. Self-assessment dan usulan AI di laporan tidak diperlakukan sebagai nilai resmi dosen.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Peran dan kebutuhan tiap karakter diuraikan dalam laporan individual. |
+| Objective & state | Tiap kasus membedakan keadaan awal dan perubahan yang dituju. |
+| Repertoire & language | Validasi, klarifikasi, demonstrasi, dan konfirmasi digunakan sesuai konteks kasus. |
+| Response & adaptation | Refleksi tiap laporan menelusuri perubahan respons setelah kendala muncul. |
+| Agreement/action | Usulan uji atau demo belum sama dengan pelaksanaan di dunia nyata. |
+| Relationship outcome | Dampak relasional ditinjau dalam kasus; tidak digeneralisasi menjadi keberhasilan lapangan. |
+
+## Penggunaan AI
+
+Laporan UTS yang sudah ada dipertahankan sebagai sumber. AI membantu penyusunan ulang halaman pengantar dan tautan berkas. Skor usulan AI tetap ditandai sebagai usulan; verifikasi pengalaman dan moderasi penilaian berada pada mahasiswa serta dosen.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Catatan di laporan berasal dari sesi teks; feedback dosen resmi belum tersedia.
+
+**Adaptation/replay:** Lihat transkrip, revisi, dan refleksi per kasus untuk perubahan yang spesifik.
+
+**Next practice:** Tinjau keaslian transkrip dan kecocokan paket NIM, lalu kumpulkan melalui portal akademik sesuai arahan dosen. Push situs bukan unggah portal.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | — | Lihat penilaian per kasus; belum dikonversi ke rubrik universal. |
+| Objective & State | — | Laporan tersedia; perlu moderasi. |
+| Repertoire, Language & AI | — | Penggunaan AI dan batas keputusan dijelaskan. |
+| Response & Adaptation | — | Replay berada di tiap laporan. |
+| Agreement, Action & Relationship | — | Pilot nyata belum terverifikasi. |
+
+**Total:** Belum dikonversi / 20. Rubrik UTS per kasus memiliki enam dimensi, sehingga tidak disalin menjadi skor universal lima dimensi.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

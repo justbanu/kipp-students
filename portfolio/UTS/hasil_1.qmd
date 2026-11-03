@@ -1,0 +1,212 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Banu Agil Triyanto |
+| NIM | 18225109 |
+| Kelas dan tanggal | 01; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 — Memimpin diri dan terus belajar |
+| Nama dan ID target | Diri mahasiswa; pembanding Dimas (K1-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam `PENUGASAN.md` |
+| Modalitas | Teks; sumber transkripsi: percakapan chat aktual |
+| Kasus nyata/fiktif | Refleksi diri berbasis situasi kuliah/kerja; segmen Dimas adalah simulasi fiktif |
+| Kelengkapan transkrip | Lengkap untuk percakapan sesi ini sejak identifikasi sampai konfirmasi |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Mahasiswa ingin mengembangkan manajemen waktu dan skala prioritas untuk mengurangi penumpukan tugas, procrastination, burnout, dan kecemasan menghadapi tenggat. Target konkret awal adalah menyelesaikan 80%–90% tugas kuliah/kerja setidaknya satu hari sebelum tenggat, memakai matriks prioritas secara konsisten, serta memiliki jadwal mingguan dengan time blocking dan waktu istirahat yang tidak mengorbankan tidur.
+
+Tujuan sesi adalah memimpin diri ketika menghadapi tugas yang terasa terlalu besar. Strategi yang dikembangkan: prosedur transisi lima menit, pemecahan tugas menjadi langkah mikro, buffer waktu, audit estimasi durasi, dan aturan 15 menit untuk meminta bantuan ketika hambatan teknis tidak terselesaikan. Keberhasilan nyata belum dapat disimpulkan karena sesi ini berbasis simulasi teks.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: self-awareness dan kemauan berevaluasi; kelemahan: menunda tugas berfriksi tinggi; peluang: aplikasi kalender/focus; ancaman: gangguan mendadak dan distraksi | U003 | Laporan diri |
+| Attitude | Manajemen waktu dipandang sebagai alat fleksibilitas dan ketenangan, bukan pengekang; ada kecemasan terhadap tumpukan tugas | U003 | Laporan diri |
+| Knowledge | Memahami Eisenhower Matrix, Pomodoro, dan time blocking | U003 | Laporan diri |
+| Skill | Dapat membuat to-do list dan mengelompokkan prioritas; konsistensi time blocking, estimasi durasi, dan distraksi digital masih menjadi masalah | U003 | Laporan diri |
+| Preferensi/MBTI jika dilaporkan | Tidak ada tipe MBTI yang ditetapkan; preferensi yang tampak: analitis, terstruktur, dan responsif terhadap indikator terukur | U003–U013 | Dugaan berbasis percakapan, bukan diagnosis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa yang mengerjakan tugas coding/laporan; menggunakan konteks kost/perpustakaan, kelompok kuliah, teman, dan aslab | U005, U015 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Mengubah kecemasan dan penundaan menjadi tindakan mikro yang terukur | A: validasi; K: bedakan hambatan mulai, waktu, dan teknis; S: mulai, mengestimasi, dan meminta bantuan | Dialog diri, eksperimen 5 menit, review data, revisi rencana | Tindakan awal, indikator, dan rencana uji ulang |
+| Attention | Mudah tersedot oleh tumpukan tugas dan HP | A/K: akui beban dan fokuskan satu tugas | Matikan notifikasi dan pilih satu tugas | HP tersimpan dan satu tugas dipilih |
+| Interest | Tertarik pada sistem yang memberi fleksibilitas dan ketenangan | K: kaitkan metode dengan masalah nyata | Tawarkan eksperimen terbatas | Kesediaan menguji metode |
+| Desire | Ingin mengurangi burnout dan menyelesaikan tugas lebih awal | A/K/S: tunjukkan manfaat realistis, tanpa janji pasti | Tetapkan indikator dan otonomi evaluasi | Komitmen disertai batas dan ukuran |
+| Action | Perlu konsistensi dan adaptasi saat ada error atau estimasi meleset | S: langkah mikro, buffer, aturan 15 menit, eskalasi | Uji ulang dengan kendala baru | Respons operasional, bukan hanya niat |
+
+# C) Skrip Percakapan
+
+Transkrip berikut mempertahankan isi percakapan aktual. U adalah pesan mahasiswa dan AI adalah fasilitator/simulator. Segmen Dimas adalah simulasi tokoh pembanding, bukan bukti perubahan diri mahasiswa.
+
+## Identifikasi dan tujuan
+
+**U001 — Identifikasi:** Nama Banu Agil Triyanto dan NIM 18225109 dikonfirmasi. Kelas 01 dicatat. Modalitas teks dicatat berdasarkan percakapan chat aktual; tanggal sesi 15 Oktober 2026.
+
+**U002 — Tujuan:** “Kemampuan yang Ingin Dikembangkan: Manajemen Waktu dan Skala Prioritas (Time Management & Prioritization). Mengapa Penting: Dalam perkuliahan dan dunia kerja, tantangan terbesar yang sering saya hadapi adalah burnout akibat penumpukan tugas dan kecenderungan menunda pekerjaan (procrastination). Menguasai manajemen waktu dan penentuan prioritas sangat krusial agar saya bisa memimpin diri sendiri secara konsisten, tetap tenang di bawah tekanan deadline, serta menjaga keseimbangan antara produktivitas dan kesehatan mental.”
+
+Hasil konkret yang dinyatakan: menyelesaikan 80%–90% tugas setidaknya satu hari sebelum batas waktu; memakai Eisenhower Matrix secara konsisten; serta memiliki jadwal mingguan terstruktur dengan time blocking untuk belajar, bekerja, dan istirahat tanpa mengorbankan tidur.
+
+**AI001:** Meminta laporan awal Attitude, Knowledge, Skill, SWOT, dan rencana mengatasi hambatan.
+
+**U003 — Profil awal:** Mahasiswa menyatakan manajemen waktu adalah alat fleksibilitas dan ketenangan. Ia memahami Eisenhower Matrix, Pomodoro, dan time blocking. Ia mampu membuat to-do list dan mengelompokkan prioritas, tetapi sering gagal konsisten mengeksekusi time blocking karena underestimating task time dan distraksi digital. Kekuatan: self-awareness dan kemauan berevaluasi. Kelemahan: menunda tugas membosankan atau rumit. Peluang: Google Calendar, Notion, dan focus app. Ancaman: permintaan mendadak dan distraksi lingkungan.
+
+Rencana awal: menambah buffer 15–30 menit; memakai Do Not Disturb/Focus Mode; memecah tugas menjadi langkah mikro; dan menegosiasikan permintaan mendadak yang merusak prioritas.
+
+## Simulasi dialog diri
+
+**AI002:** Meminta pesan realistis kepada diri sendiri ketika tugas menumpuk, cemas, dan terdorong menunda.
+
+**U004 — Pesan diri:** “Hei, pelan-pelan. Wajar kalau kamu merasa cemas atau pusing pas ngeliat tumpukan tugas segini banyaknya. Tapi ingat, makin kamu tunda dan scroll HP terus, rasa cemas itu nggak bakal hilang—malah makin numpuk dan bikin kamu makin panik besok. Kamu nggak harus nyelesaiin semua hal detik ini juga. Tugas-tugas ini kelihatan raksasa cuma karena masih ngumpul jadi satu di kepala kamu. Yuk, ambil kendali lagi. Kamu udah punya sistemnya, tinggal dipakai.”
+
+Langkah yang ditetapkan: menutup tab dan mematikan notifikasi; menulis tiga tugas krusial; memilih satu tugas; memecahnya menjadi langkah mikro; lalu menjalankan Pomodoro 25 menit.
+
+**AI003:** Menyoroti bahwa validasi, batas distraksi, dan langkah mikro sudah konkret, tetapi “Kamu pasti bisa” belum merupakan bukti keberhasilan; lalu meminta evaluasi bagian yang mudah diterima dan bagian yang terasa menghakimi.
+
+**U005 — Evaluasi diri:** Bagian yang mudah diterima adalah validasi emosi dan instruksi low friction seperti menutup notifikasi serta memasang timer. Bagian yang berpotensi menghakimi adalah “Makin kamu tunda dan scroll HP terus”. Matriks dan pemecahan tugas dapat terlalu berat ketika executive functioning menurun. “Kamu pasti bisa” dianggap dorongan generik/toxic positivity tanpa bukti.
+
+Revisi pesan: “Stop dulu. Buka napas. Wajar kalau rasanya berat banget sekarang. Nggak usah mikir gimana caranya nyelesaiin semuanya hari ini. Langkah tunggal sekarang: pilih SATU tugas aja, lalu kerjakan cuma selama 5 menit. Kalau setelah 5 menit masih terasa berat, kamu boleh berhenti. Tapi mulai dulu 5 menit ini sekarang.”
+
+**AI004:** Meminta respons operasional untuk situasi berikutnya dengan urutan situasi, tindakan lima menit, indikator berhasil, dan keputusan setelah lima menit.
+
+**U006 — Respons operasional:** Situasi: di kost/perpustakaan, membuka VS Code atau Google Docs, lalu overwhelmed dan ingin membuka media sosial. Tindakan: membalikkan HP dan memasukkannya ke tas; membuka repository/dokumen paling mendesak; memasang timer lima menit; menulis boilerplate/TODO untuk coding atau tiga baris outline untuk laporan. Indikator: HP tidak terlihat, timer berjalan, dan ada struktur file atau tiga poin outline. Setelah lima menit, lanjut 25/50 menit jika mengalir; jika masih stuck, istirahat lima menit lalu mengecilkan langkah.
+
+## Segmen pembanding Dimas (K1-04)
+
+**AI005 sebagai Dimas:** “Apa bukti pendekatan ini lebih baik?”
+
+**U007 — Respons kepada Dimas:** Mahasiswa memvalidasi skeptisisme Dimas dan mengakui janji motivasi dapat berhenti di teori. Ia menawarkan eksperimen lima menit pada satu tugas selama 3–5 hari, dengan kebebasan membuang metode jika tidak membantu.
+
+**AI006 sebagai Dimas:** Meminta ukuran progress yang jelas dan cara membandingkan hasil dengan cara lama.
+
+**U008 — Kriteria uji:** Berhasil berarti beralih dari stuck/distraksi ke tindakan fisik pertama dalam lima menit, seperti push code/commit, outline, atau setup repository. Gagal berarti tetap menatap layar atau scrolling. Setelah 3–5 hari, bandingkan delay time dan tingkat kepanikan H-1 deadline dengan minggu sebelumnya.
+
+**AI007 sebagai Dimas:** Menyatakan ukuran cukup konkret, bersedia mencoba, tetapi meminta pencatatan jika sudah mulai namun waktu/kemampuan tidak cukup.
+
+**U009 — Batas eksperimen:** Mahasiswa menyetujui bahwa mulai bukan berarti selesai. Ia menambahkan kategori “berhasil mulai, tapi terkendala” untuk masalah manajemen waktu atau kapasitas teknis. Dimas diminta memilih satu tugas, membuat tracker sederhana, dan tetap memegang kendali atas evaluasinya.
+
+## Evaluasi sementara
+
+**AI008:** Meminta penilaian tujuan, efektivitas pesan, bagian yang perlu diubah, dampak pesan personal, serta perubahan Attitude, Knowledge, dan Skill Dimas dengan pembedaan komitmen dan tindakan.
+
+**U010 — Evaluasi:** Tujuan segmen adalah mengajak Dimas menguji pendekatan tanpa paksaan dan dengan self-evaluation. Bukti efektivitas: Dimas mengatakan ia menghargai sikap tidak memaksa dan menyetujui parameter. Jika skeptis berlanjut, fokus harus bergeser dari starting friction ke capacity dan time-estimation tracking. Kepedulian tampak melalui pengakuan batas metode, validasi argumen, dan penghormatan otonomi.
+
+Mahasiswa membedakan: Attitude Dimas menjadi lebih terbuka tetapi baru komitmen; Knowledge kognitif tampak dari pembedaan indikator; Skill masih berupa komitmen dan rencana. Diskusi dan penyusunan tracker sudah terjadi, tetapi pelaksanaan 3–5 hari dan data hasil belum terbukti.
+
+**AI009:** Membuka ringkasan profil Dimas: skeptis terhadap klaim tanpa bukti, menghargai kompetensi dan otonomi, memerlukan ukuran jelas, dan lebih terbuka jika batas metode serta pilihan dihormati.
+
+## Uji ulang
+
+**AI010 sebagai Dimas:** Setelah dua hari, Dimas berhasil memulai dalam lima menit, tetapi waktu yang tersedia terlalu pendek sehingga tugas tetap tertunda.
+
+**U011 — Adaptasi pertama:** Mahasiswa berterima kasih atas data dan menyimpulkan masalah bergeser dari starting friction ke kapasitas dan time-estimation gap. Ia mengusulkan audit durasi nyata, membagi total jam ke 2–3 blok, menambah buffer 30%, dan melindungi satu blok waktu panjang.
+
+**AI011 sebagai Dimas:** Pada blok berikutnya Dimas mulai tepat waktu, tetapi tersangkut masalah teknis setelah 30 menit.
+
+**U012 — Adaptasi kedua:** Mahasiswa menegaskan bahwa mulai tepat waktu dan fokus adalah bukti sistem berjalan, sedangkan hambatan teknis bukan kegagalan eksperimen. Ia menerapkan aturan 15 menit: dokumentasikan error dan upaya; jika masih buntu, minta bantuan teman/grup/aslab; sambil menunggu, pindah ke dokumentasi atau bagian sederhana. Ia menutup dengan pilihan apakah Dimas ingin mencatat error atau menghubungi teman.
+
+## Hasil dan refleksi
+
+**AI012:** Meminta refleksi perubahan ASK, SWOT, pencapaian tujuan, stimulus efektif/tidak efektif, kebiasaan minggu depan, dan pesan yang membangun rasa dipercaya/dipedulikan.
+
+**U013 — Refleksi akhir:** Attitude bergeser dari orientasi hasil yang kaku dan guilt trip ke orientasi proses berbasis eksperimen. Knowledge berkembang pada starting friction, time-estimation gap, hambatan teknis, dan aturan 15 menit. Skill berkembang pada pemecahan tugas, indikator objektif, dan situational coping.
+
+SWOT terbaru: kekuatan berupa analisis diagnostik; kelemahan berupa analysis paralysis; peluang berupa aslab dan kolaborasi; ancaman berupa underestimation karena bug dan materi sulit. Tujuan dinilai sebagian tercapai karena kerangka dan indikator terbentuk, tetapi eksekusi nyata untuk target 80%–90% belum teruji.
+
+Stimulus efektif: kritik terhadap dorongan abstrak dan catatan Dimas bahwa mulai tidak sama dengan selesai. Stimulus tidak efektif: dorongan generik dan frasa yang dapat menimbulkan guilt. Kebiasaan tindak lanjut: prosedur transisi lima menit setiap hendak belajar, didukung Focus Mode dan timer, dengan indikator transisi ke dokumen/kode dalam kurang dari lima menit minimal lima kali seminggu.
+
+Pesan relasional yang membantu adalah pengakuan batas metode, penghormatan otonomi, dan validasi argumen kritis. Bukti simulatifnya: Dimas menyatakan argumennya didengar dan bersedia mencoba. Pesan yang dapat menghambat adalah bahasa menyalahkan scrolling atau istilah terlalu kaku tanpa empati.
+
+**AI013:** Meminta konfirmasi ringkasan, batas bukti, dan skor usulan.
+
+**U014 — Konfirmasi:** Mahasiswa menyetujui ringkasan laporan, batas bukti, dan usulan skor enam dimensi 4/4 yang memerlukan moderasi dosen.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan sesi **sebagian tercapai**. Mahasiswa menunjukkan kemampuan merancang respons diri dan mengadaptasinya dalam simulasi. Target 80%–90% tugas selesai sehari sebelum tenggat belum dapat diklaim tercapai karena tidak ada data pelaksanaan nyata.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Self-awareness kuat; procrastination dan distraksi menghambat | Diagnosis lebih tajam: mulai, kapasitas, estimasi, dan teknis dipisahkan | U003, U005, U010, U013 | Laporan diri dan simulasi |
+| Attitude | Jadwal dipandang penting, tetapi kecemasan dan rasa bersalah muncul | Lebih berorientasi proses dan eksperimen; hambatan dipandang sebagai data | U004–U005, U013 | Refleksi mahasiswa; perubahan jangka panjang belum terbukti |
+| Knowledge | Mengenal Eisenhower, Pomodoro, time blocking | Memahami starting friction, time-estimation gap, buffer, dan eskalasi 15 menit | U003, U006, U008, U011–U012 | Bukti kognitif/penalaran |
+| Skill | To-do list dan prioritas sudah dapat dibuat; eksekusi belum konsisten | Mampu merancang langkah mikro, indikator, audit durasi, dan rencana meminta bantuan | U006, U008, U011–U012 | Demonstrasi dalam teks; belum merupakan performa dunia nyata |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U007–U009 | Skeptis lalu lebih terbuka | Validasi dan eksperimen terbatas | Dimas meminta parameter, lalu bersedia mencoba | K dan kesiapan simulatif membaik | Indikator dibuat lebih terukur |
+| U010 | Dimas mengidentifikasi batas fokus pada mulai | Kriteria mulai, delay, stres H-1 | Dimas menerima ukuran dan meminta pencatatan kendala | K bertambah; S belum teruji | Cakupan diubah agar mencatat kegagalan penyelesaian |
+| U011 | Mulai berhasil tetapi waktu kurang | Audit durasi, pembagian blok, buffer | Kendala dibaca sebagai data, bukan kegagalan | Diagnosis bergeser ke kapasitas/waktu | Rencana time blocking direvisi |
+| U012 | Stuck teknis setelah 30 menit | Aturan 15 menit, dokumentasi, eskalasi | Pilihan bantuan dan pindah scope | S dan dukungan diperlakukan realistis | Tidak memaksa fokus pada satu bagian |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak dan batas inferensi |
+|---|---|---|---|---|
+| U007–U009 | Mengakui skeptisisme, tidak memaksa, memberi hak untuk membuang metode | Dimas mengatakan ia menghargai sikap tidak memaksa dan bersedia mencoba | Simulasi: rendah → sedang; lebih terbuka menyebut syarat evaluasi | Kepercayaan simulatif meningkat; bukan bukti hubungan nyata |
+| U010–U012 | Menerima kritik bahwa mulai tidak sama dengan selesai, lalu menyepakati batas eksperimen | Dimas mengajukan kendala tambahan dan rencana dapat direvisi | Simulasi: keterbukaan sedang; kebutuhan dijelaskan lebih spesifik | Respons tidak otomatis menjadi persetujuan; otonomi tetap dijaga |
+| U004–U005, U013 | Validasi diri tanpa menghapus tanggung jawab; menghindari guilt trip | Mahasiswa merevisi bahasa internalnya | Diri mahasiswa melaporkan kecemasan lebih dapat ditangani | Efek reflektif dalam sesi; belum mengukur perubahan psikologis |
+
+## Uji ulang dan pembelajaran
+
+Uji ulang menghadirkan dua kendala terkait profil: blok waktu terlalu pendek dan masalah teknis. Mahasiswa tidak mengulang respons awal secara mekanis. Ia mengaudit estimasi, menambah buffer, melindungi blok waktu, menetapkan batas 15 menit, mendokumentasikan hambatan, dan mengeskalasi bantuan. Demonstrasi ini menunjukkan adaptasi dalam teks. Transfer ke perilaku nyata belum teramati.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4/4 | U002, U003 | Tujuan, masalah burnout, indikator 80%–90%, dan batas kesehatan mental dirumuskan jelas |
+| Persepsi dan validasi profil/status | 4/4 | U005, U007–U010 | Mahasiswa mengakui kecemasan diri dan skeptisisme Dimas; profil diperbarui tanpa mengubahnya menjadi label |
+| Pemilihan dan urutan repertoar | 4/4 | U004–U006, U008, U011–U012 | Urutan validasi → langkah mikro → ukuran → audit → eskalasi sesuai data percakapan |
+| Eksekusi jelas, peduli dan konsisten | 4/4 | U004, U007, U009, U012 | Pesan konkret, menghormati pilihan, tidak menjanjikan hasil pasti, dan memberi dukungan realistis |
+| Evaluasi dan adaptasi | 4/4 | U010–U012 | Membedakan komitmen dan tindakan serta merevisi rencana ketika kendala baru muncul |
+| Refleksi dan lesson learned | 4/4 | U013–U014 | Refleksi membahas ASK, SWOT, efektivitas stimulus, relasi, tindak lanjut, dan batas bukti |
+
+Nilai usulan AI: **24/24 × 100 = 100**. Nilai ini adalah usulan untuk moderasi dosen, bukan nilai resmi.
+
+## Refleksi dan lesson learned mahasiswa
+
+Mahasiswa mengoreksi dugaan bahwa dorongan umum dan tekanan rasa bersalah akan mempercepat eksekusi. Ia menemukan bahwa pesan yang lebih efektif memvalidasi beban, mengecilkan langkah, mengukur transisi mulai, dan tetap memberi pilihan. Ia juga belajar bahwa keberhasilan memulai tidak sama dengan menyelesaikan tugas; kapasitas, estimasi waktu, error teknis, dan akses bantuan perlu dicatat terpisah.
+
+## Tindak lanjut dan batas bukti
+
+Tindak lanjut: menjalankan prosedur transisi lima menit minimal lima kali dalam seminggu; memakai Focus Mode dan timer; mencatat apakah tindakan pertama terjadi dalam lima menit; mengaudit durasi dan menambah buffer; serta memakai aturan 15 menit sebelum meminta bantuan. Pelaksanaan ini masih rencana, bukan hasil terverifikasi.
+
+Percakapan ini berbasis teks dan tidak menilai prosodi atau bahasa tubuh. Dimas adalah chatbot/simulasi. Kategori rasa aman, kepercayaan, dan keterbukaan hanya catatan simulator, bukan skala psikometri. Perubahan jangka panjang, target 80%–90%, dan keberhasilan menyelesaikan tugas H-1 belum dibuktikan.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum tersedia |
+| Sesi 1 | 18% | 100 (usulan AI; moderasi dosen diperlukan) |
+| Sesi 2a | 18% | Belum tersedia |
+| Sesi 2b | 18% | Belum tersedia |
+| Sesi 3a | 18% | Belum tersedia |
+| Sesi 3b | 18% | Belum tersedia |
+| **Total** | **100%** | **Belum dihitung** |
+
+Nilai akhir UTS tetap **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia. Nilai sesi yang belum tersedia tidak dianggap nol dan bobot tidak dinormalisasi ulang.
+
+Rata-rata sesi 2a/2b dan 3a/3b hanya akan ditampilkan sebagai ringkasan Kasus 2 dan Kasus 3; ringkasan tersebut tidak dihitung sebagai komponen tambahan. Rubrik makalah tidak diterapkan di sini; nilai makalah harus berasal dari dosen atau rubrik resmi.

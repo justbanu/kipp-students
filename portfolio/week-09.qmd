@@ -1,7 +1,7 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
@@ -22,4 +22,78 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 [Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+**Penulis:** Banu Agil Triyanto — NIM 18225109.
+
+::: {.callout-note title="Kedudukan artefak"}
+Artefak ini adalah latihan analitis dan simulasi berbantuan AI, disusun pada 3 November 2026. Dialog simulasi, respons bersyarat, dan rencana tindakan bukan bukti kegiatan lapangan. Status Draft dipertahankan sampai bukti pelaksanaan dan konfirmasi mitra tersedia.
+:::
+
+## Konteks performance
+
+**Tanggal dan setting:** 3 November 2026; penyusunan artefak tertulis. Latihan membangun desired state untuk koordinator administrasi berdasarkan kasus W05.
+
+**Persons dan relationship:** Banu sebagai penyusun latihan; pihak lain disebut berdasarkan peran. Tidak ada persetujuan baru yang diasumsikan.
+
+**Objective dan initial state:** Menghubungkan manfaat proses dengan nilai yang perlu dikonfirmasi kepada target. State pihak lain masih hipotesis dan perlu diuji.
+
+## Evidence
+
+::: {.evidence-block}
+| Current state dari kasus | Desired state yang diusulkan | Indikator uji |
+|---|---|---|
+| Data tersebar | Kelengkapan diketahui tanpa membuka seluruh chat | Data kurang dapat ditunjukkan dari satu ringkasan |
+| Laporan tertunda | Rekap tersedia pada hari kegiatan | Waktu selesai dibandingkan dengan batas yang disepakati |
+| Beban pada satu orang | Ada pemilik penyerahan tiap divisi | Tiap bagian punya peran dan pengganti |
+
+**Feature–benefit–value–outcome:** Penanda kelengkapan → menemukan kekurangan lebih cepat → ketenangan dan keandalan koordinasi → rekap siap diperiksa. Ini rantai hipotesis, bukan bukti dampak yang sudah terjadi.
+
+**Naskah:** “Kalau bagian yang kurang bisa diketahui lebih awal, pekerjaan apa yang menjadi lebih ringan? Apakah yang paling penting bagimu adalah selesai pada hari yang sama, ketelitian, atau pembagian beban?”
+
+**Risiko dan evidence threshold:** Penanda bisa tidak diperbarui, data bisa salah, dan anggota bisa merasa diawasi. Sebelum melanjutkan, perlu uji dummy, kesepakatan akses terbatas, serta pemeriksaan silang satu sampel. Target berhak menolak jika bebannya lebih besar daripada manfaat.
+
+**Cabang adaptasi:** Jika ketelitian lebih penting daripada kecepatan, saya mengganti target “selesai tercepat” dengan “selesai sesuai tenggat dan lolos pemeriksaan sampel”. Belum ada konfirmasi desired state dari wawancara baru.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Peran, kepentingan, dan kewenangan dibedakan dalam artefak. |
+| Objective & state | Menghubungkan manfaat proses dengan nilai yang perlu dikonfirmasi kepada target. State awal tidak diperlakukan sebagai fakta tanpa konfirmasi. |
+| Repertoire & language | Bahasa berupa pertanyaan, contoh konkret, dan pilihan yang memberi ruang penolakan. |
+| Response & adaptation | Menjadikan desired state pilihan target dan memasukkan ketelitian sebagai trade-off. Respons lapangan belum terdokumentasi. |
+| Agreement/action | Rencana dan artefak tersedia; persetujuan serta pelaksanaan belum diklaim. |
+| Relationship outcome | Perlindungan privasi dan otonomi dirancang; dampak hubungan perlu feedback aktual. |
+
+## Penggunaan AI
+
+AI membantu menghasilkan kerangka, naskah, tabel, simulasi, dan analisis pada halaman ini. Instruksi utama adalah mengikuti kompetensi minggu ini, mempertahankan judul/subjudul, dan membedakan bukti yang tersedia dari skenario. Hasil digunakan sebagai draf latihan; pemeriksaan akhir Banu atas fakta dan kesesuaian pengalaman belum tercatat. Tidak ada dialog simulasi yang dianggap rekaman asli, dan AI tidak menetapkan nilai dosen.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Belum ada feedback mitra atau observer untuk latihan baru ini. Catatan evaluasi di atas adalah analisis draf, bukan kutipan narasumber.
+
+**Adaptation/replay:** Menjadikan desired state pilihan target dan memasukkan ketelitian sebagai trade-off.
+
+**Next practice:** Meminta target mengurutkan tiga hasil yang dianggap penting sebelum menentukan indikator.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | — | Peta peran tersedia; observasi aktual belum tersedia. |
+| Objective & State | — | Objective tertulis; state perlu konfirmasi. |
+| Repertoire, Language & AI | — | Naskah dan deklarasi AI tersedia; perlu pemeriksaan akhir penulis. |
+| Response & Adaptation | — | Cabang adaptasi dirancang; respons aktual belum dicatat. |
+| Agreement, Action & Relationship | — | Rencana review tersedia; tindakan dan dampak belum diverifikasi. |
+
+**Total:** Belum dinilai / 20. Skor perilaku memerlukan bukti pelaksanaan.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

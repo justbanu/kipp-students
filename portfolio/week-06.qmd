@@ -1,7 +1,7 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
@@ -22,4 +22,80 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 [Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+**Penulis:** Banu Agil Triyanto — NIM 18225109.
+
+::: {.callout-note title="Kedudukan artefak"}
+Artefak ini adalah latihan analitis dan simulasi berbantuan AI, disusun pada 3 November 2026. Dialog simulasi, respons bersyarat, dan rencana tindakan bukan bukti kegiatan lapangan. Status Draft dipertahankan sampai bukti pelaksanaan dan konfirmasi mitra tersedia.
+:::
+
+## Konteks performance
+
+**Tanggal dan setting:** 3 November 2026; penyusunan artefak tertulis. Latihan menyusun pitch untuk koordinator administrasi panitia; berangkat dari kasus Raka pada W05.
+
+**Persons dan relationship:** Banu sebagai penyusun latihan; pihak lain disebut berdasarkan peran. Tidak ada persetujuan baru yang diasumsikan.
+
+**Objective dan initial state:** Membuat masalah kelengkapan daftar hadir dikenali sebagai isu yang perlu diperiksa. State pihak lain masih hipotesis dan perlu diuji.
+
+## Evidence
+
+::: {.evidence-block}
+**Target map**
+
+| Person | Peran dan kebutuhan | Authority | State awal yang harus diuji |
+|---|---|---|---|
+| Koordinator administrasi | Memeriksa data tanpa mengejar satu per satu | Menetapkan alur rekap | Menyadari beban, belum tentu menyepakati prioritas |
+| Ketua panitia | Laporan selesai tepat waktu | Menyetujui uji alur | Belum mengetahui rincian hambatan |
+| Anggota divisi | Menyerahkan data dengan beban ringan | Menyerahkan data bagiannya | Memiliki perangkat dan waktu berbeda |
+
+Saya memilih koordinator administrasi karena ia mengalami masalah langsung dan dapat menjelaskan urutan kejadian. Ketua tetap diperlukan untuk persetujuan lintas divisi.
+
+**Naskah attention pitch:** “Di catatan kasus W05, daftar hadir tersebar dan sebagian datang keesokan hari. Akibatnya koordinator perlu mengecek ulang sekitar dua jam dan laporan tertunda. Bolehkah kita meninjau satu alur penyerahan data selama sepuluh menit untuk mencari bagian yang paling menghambat?”
+
+Angka tersebut berasal dari catatan W05, bukan hasil pengukuran baru. Pitch mengundang peninjauan, belum menawarkan teknologi.
+
+**Cabang respons untuk role-play:** Jika target menyebut masalah ini jarang terjadi, saya menanyakan kejadian terakhir dan frekuensinya. Jika target mengatakan tidak punya waktu, saya menawarkan peninjauan satu contoh anonim. Attention baru dinilai ada ketika target mampu menjelaskan mengapa isu relevan bagi pekerjaannya; diam atau membalas “oke” belum cukup.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Peran, kepentingan, dan kewenangan dibedakan dalam artefak. |
+| Objective & state | Membuat masalah kelengkapan daftar hadir dikenali sebagai isu yang perlu diperiksa. State awal tidak diperlakukan sebagai fakta tanpa konfirmasi. |
+| Repertoire & language | Bahasa berupa pertanyaan, contoh konkret, dan pilihan yang memberi ruang penolakan. |
+| Response & adaptation | Mengganti pembuka yang menyalahkan anggota dengan uraian proses, dampak, dan ajakan terbatas. Respons lapangan belum terdokumentasi. |
+| Agreement/action | Rencana dan artefak tersedia; persetujuan serta pelaksanaan belum diklaim. |
+| Relationship outcome | Perlindungan privasi dan otonomi dirancang; dampak hubungan perlu feedback aktual. |
+
+## Penggunaan AI
+
+AI membantu menghasilkan kerangka, naskah, tabel, simulasi, dan analisis pada halaman ini. Instruksi utama adalah mengikuti kompetensi minggu ini, mempertahankan judul/subjudul, dan membedakan bukti yang tersedia dari skenario. Hasil digunakan sebagai draf latihan; pemeriksaan akhir Banu atas fakta dan kesesuaian pengalaman belum tercatat. Tidak ada dialog simulasi yang dianggap rekaman asli, dan AI tidak menetapkan nilai dosen.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Belum ada feedback mitra atau observer untuk latihan baru ini. Catatan evaluasi di atas adalah analisis draf, bukan kutipan narasumber.
+
+**Adaptation/replay:** Mengganti pembuka yang menyalahkan anggota dengan uraian proses, dampak, dan ajakan terbatas.
+
+**Next practice:** Menguji pitch kepada koordinator, meminta ia merangkum relevansi masalah, lalu mencatat respons asli.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | — | Peta peran tersedia; observasi aktual belum tersedia. |
+| Objective & State | — | Objective tertulis; state perlu konfirmasi. |
+| Repertoire, Language & AI | — | Naskah dan deklarasi AI tersedia; perlu pemeriksaan akhir penulis. |
+| Response & Adaptation | — | Cabang adaptasi dirancang; respons aktual belum dicatat. |
+| Agreement, Action & Relationship | — | Rencana review tersedia; tindakan dan dampak belum diverifikasi. |
+
+**Total:** Belum dinilai / 20. Skor perilaku memerlukan bukti pelaksanaan.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

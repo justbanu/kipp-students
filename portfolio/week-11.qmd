@@ -1,7 +1,7 @@
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Stakeholder map, interests, options, trade-offs, dan agreement."
@@ -22,4 +22,86 @@ Memfasilitasi beberapa person dengan objective, constraint, authority, dan state
 [Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+**Penulis:** Banu Agil Triyanto — NIM 18225109.
+
+::: {.callout-note title="Kedudukan artefak"}
+Artefak ini adalah latihan analitis dan simulasi berbantuan AI, disusun pada 3 November 2026. Dialog simulasi, respons bersyarat, dan rencana tindakan bukan bukti kegiatan lapangan. Status Draft dipertahankan sampai bukti pelaksanaan dan konfirmasi mitra tersedia.
+:::
+
+## Konteks performance
+
+**Tanggal dan setting:** 3 November 2026; penyusunan artefak tertulis. Simulasi negosiasi antara koordinator administrasi, ketua, dan perwakilan divisi.
+
+**Persons dan relationship:** Banu sebagai penyusun latihan; pihak lain disebut berdasarkan peran. Tidak ada persetujuan baru yang diasumsikan.
+
+**Objective dan initial state:** Menyusun opsi yang memenuhi kebutuhan akurasi, waktu, dan beban anggota. State pihak lain masih hipotesis dan perlu diuji.
+
+## Evidence
+
+::: {.evidence-block}
+| Stakeholder | Position dalam skenario | Interest | Authority dan state hipotesis |
+|---|---|---|---|
+| Koordinator | Semua data masuk hari yang sama | Kepastian dan akurasi | Mengelola rekap; Desire |
+| Ketua | Laporan cepat selesai | Akuntabilitas kegiatan | Menyetujui uji; Interest |
+| Perwakilan divisi | Jangan menambah formulir | Beban ringan dan fleksibilitas | Menyampaikan kapasitas; Attention |
+
+State adalah hipotesis role-play, bukan hasil observasi baru.
+
+**Common ground:** Semua pihak membutuhkan laporan yang benar dan proses yang dapat dilakukan anggota.
+
+**Opsi negosiasi:** A: status ringkas dahulu, berkas lengkap menyusul dengan batas yang disetujui; B: satu format wajib sejak awal dengan pendampingan; C: petugas pengganti untuk divisi yang kekurangan orang.
+
+**Potongan dialog simulasi:**
+
+> Koordinator: “Saya perlu tahu bagian yang belum lengkap sebelum menutup rekap.”
+>
+> Divisi: “Kami tidak bisa mengisi formulir panjang saat membongkar perlengkapan.”
+>
+> Fasilitator: “Apakah status singkat dulu memenuhi kebutuhan kepastian, dengan bukti lengkap menyusul?”
+
+**Usulan sufficient agreement:** Uji opsi A untuk satu kegiatan dan sediakan petugas pengganti. Keberatan terhadap tenggat dicatat terbuka; tidak ada persetujuan pihak nyata yang diklaim. Review H+1 membandingkan kelengkapan, beban, dan kesalahan.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Peran, kepentingan, dan kewenangan dibedakan dalam artefak. |
+| Objective & state | Menyusun opsi yang memenuhi kebutuhan akurasi, waktu, dan beban anggota. State awal tidak diperlakukan sebagai fakta tanpa konfirmasi. |
+| Repertoire & language | Bahasa berupa pertanyaan, contoh konkret, dan pilihan yang memberi ruang penolakan. |
+| Response & adaptation | Memisahkan kebutuhan kepastian dari tuntutan semua berkas segera lengkap. Respons lapangan belum terdokumentasi. |
+| Agreement/action | Rencana dan artefak tersedia; persetujuan serta pelaksanaan belum diklaim. |
+| Relationship outcome | Perlindungan privasi dan otonomi dirancang; dampak hubungan perlu feedback aktual. |
+
+## Penggunaan AI
+
+AI membantu menghasilkan kerangka, naskah, tabel, simulasi, dan analisis pada halaman ini. Instruksi utama adalah mengikuti kompetensi minggu ini, mempertahankan judul/subjudul, dan membedakan bukti yang tersedia dari skenario. Hasil digunakan sebagai draf latihan; pemeriksaan akhir Banu atas fakta dan kesesuaian pengalaman belum tercatat. Tidak ada dialog simulasi yang dianggap rekaman asli, dan AI tidak menetapkan nilai dosen.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Belum ada feedback mitra atau observer untuk latihan baru ini. Catatan evaluasi di atas adalah analisis draf, bukan kutipan narasumber.
+
+**Adaptation/replay:** Memisahkan kebutuhan kepastian dari tuntutan semua berkas segera lengkap.
+
+**Next practice:** Menguji opsi dengan satu wakil tiap peran dan mencatat persetujuan serta dissent secara terpisah.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | — | Peta peran tersedia; observasi aktual belum tersedia. |
+| Objective & State | — | Objective tertulis; state perlu konfirmasi. |
+| Repertoire, Language & AI | — | Naskah dan deklarasi AI tersedia; perlu pemeriksaan akhir penulis. |
+| Response & Adaptation | — | Cabang adaptasi dirancang; respons aktual belum dicatat. |
+| Agreement, Action & Relationship | — | Rencana review tersedia; tindakan dan dampak belum diverifikasi. |
+
+**Total:** Belum dinilai / 20. Skor perilaku memerlukan bukti pelaksanaan.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

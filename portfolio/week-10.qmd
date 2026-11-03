@@ -1,7 +1,7 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
@@ -22,4 +22,80 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 [Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+**Penulis:** Banu Agil Triyanto — NIM 18225109.
+
+::: {.callout-note title="Kedudukan artefak"}
+Artefak ini adalah latihan analitis dan simulasi berbantuan AI, disusun pada 3 November 2026. Dialog simulasi, respons bersyarat, dan rencana tindakan bukan bukti kegiatan lapangan. Status Draft dipertahankan sampai bukti pelaksanaan dan konfirmasi mitra tersedia.
+:::
+
+## Konteks performance
+
+**Tanggal dan setting:** 3 November 2026; penyusunan artefak tertulis. Latihan menyusun agreement untuk uji alur administrasi panitia.
+
+**Persons dan relationship:** Banu sebagai penyusun latihan; pihak lain disebut berdasarkan peran. Tidak ada persetujuan baru yang diasumsikan.
+
+**Objective dan initial state:** Mengubah rencana menjadi usulan tindakan dengan pemilik, tenggat relatif, dan batas kewenangan. State pihak lain masih hipotesis dan perlu diuji.
+
+## Evidence
+
+::: {.evidence-block}
+**Barrier dan authority map:** Koordinator dapat mengatur rekap; ketua menyetujui uji lintas divisi; anggota menyepakati beban dan waktu; pengelola data menentukan akses sesuai kebijakan. Saya hanya menyusun usulan dan tidak dapat memberi persetujuan atas nama mereka.
+
+| Opsi | Manfaat | Trade-off |
+|---|---|---|
+| Pesan status per divisi | Ringan diakses | Harus dirangkum manual |
+| Tabel ringkas bersama | Kelengkapan terlihat | Memerlukan kontrol akses |
+| Penyerahan ke satu petugas | Tanggung jawab jelas | Risiko bottleneck |
+
+**Draf agreement, belum disetujui:** Ketua memilih satu kegiatan uji pada H-3; koordinator memeriksa daftar peran pada H-2; setiap divisi mengirim status maksimal 30 menit setelah kegiatan; koordinator melakukan pemeriksaan pada hari yang sama; evaluasi berlangsung H+1. H adalah tanggal kegiatan yang kelak disepakati.
+
+**Bukti tindakan saat ini:** Draf peran, opsi, dan checklist sudah ditulis di halaman ini. Pelaksanaan uji, tanda persetujuan, dan laporan hasil belum tersedia.
+
+**Review rule:** Hentikan uji jika akses data tidak dapat dibatasi. Jika koneksi gagal, gunakan catatan lokal dengan akses terbatas dan serahkan lewat kanal yang disepakati.
+
+**Naskah penutup:** “Bagian mana yang bisa Anda setujui, bagian mana perlu diubah, dan siapa yang berwenang memastikan langkah ini?”
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Peran, kepentingan, dan kewenangan dibedakan dalam artefak. |
+| Objective & state | Mengubah rencana menjadi usulan tindakan dengan pemilik, tenggat relatif, dan batas kewenangan. State awal tidak diperlakukan sebagai fakta tanpa konfirmasi. |
+| Repertoire & language | Bahasa berupa pertanyaan, contoh konkret, dan pilihan yang memberi ruang penolakan. |
+| Response & adaptation | Memisahkan kesediaan mencoba dari kewajiban mengikuti; tenggat dihitung relatif agar tidak mengarang tanggal. Respons lapangan belum terdokumentasi. |
+| Agreement/action | Rencana dan artefak tersedia; persetujuan serta pelaksanaan belum diklaim. |
+| Relationship outcome | Perlindungan privasi dan otonomi dirancang; dampak hubungan perlu feedback aktual. |
+
+## Penggunaan AI
+
+AI membantu menghasilkan kerangka, naskah, tabel, simulasi, dan analisis pada halaman ini. Instruksi utama adalah mengikuti kompetensi minggu ini, mempertahankan judul/subjudul, dan membedakan bukti yang tersedia dari skenario. Hasil digunakan sebagai draf latihan; pemeriksaan akhir Banu atas fakta dan kesesuaian pengalaman belum tercatat. Tidak ada dialog simulasi yang dianggap rekaman asli, dan AI tidak menetapkan nilai dosen.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Belum ada feedback mitra atau observer untuk latihan baru ini. Catatan evaluasi di atas adalah analisis draf, bukan kutipan narasumber.
+
+**Adaptation/replay:** Memisahkan kesediaan mencoba dari kewajiban mengikuti; tenggat dihitung relatif agar tidak mengarang tanggal.
+
+**Next practice:** Meminta persetujuan pemilik peran dan menetapkan tanggal H sebelum mengklaim agreement.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | — | Peta peran tersedia; observasi aktual belum tersedia. |
+| Objective & State | — | Objective tertulis; state perlu konfirmasi. |
+| Repertoire, Language & AI | — | Naskah dan deklarasi AI tersedia; perlu pemeriksaan akhir penulis. |
+| Response & Adaptation | — | Cabang adaptasi dirancang; respons aktual belum dicatat. |
+| Agreement, Action & Relationship | — | Rencana review tersedia; tindakan dan dampak belum diverifikasi. |
+
+**Total:** Belum dinilai / 20. Skor perilaku memerlukan bukti pelaksanaan.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

@@ -36,5 +36,7 @@ Portfolio ini merekam perkembangan kompetensi pada mata kuliah **{{< var course.
 
 ## Evidence terbaru
 
+[Status tugas A01–A15](assessment/tasks.qmd) · [Portofolio W01–W15](portfolio/index.qmd) · Banu Agil Triyanto — 18225109.
+
 Gunakan [indeks portfolio](portfolio/index.qmd) untuk melihat status seluruh minggu. Halaman tersebut membaca field `status`, `self_score`, dan `assessor_score` dari setiap file evidence.
 

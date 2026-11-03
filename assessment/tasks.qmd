@@ -1,0 +1,28 @@
+---
+title: "Status Tugas A01–A15"
+sidebar: assessment
+---
+
+**Banu Agil Triyanto — 18225109**
+
+Kode A01–A15 adalah pemetaan rekap ke W01–W15 karena sumber repository belum menyediakan definisi kode A tersendiri. Semua artefak tertulis sudah tersedia; status praktik dan nilai resmi dibedakan agar tidak menyatakan pencapaian tanpa bukti.
+
+| Tugas | Portofolio | Status pengerjaan |
+|---|---|---|
+| [A01](a01.qmd) | [W01 — Character Map](../portfolio/week-01.qmd) | Siap ditinjau berdasarkan dokumen yang tersedia |
+| [A02](a02.qmd) | [W02 — Intra-Self Communication Journal](../portfolio/week-02.qmd) | Siap ditinjau berdasarkan dokumen yang tersedia |
+| [A03](a03.qmd) | [W03 — Relationship Conversation](../portfolio/week-03.qmd) | Siap ditinjau berdasarkan dokumen yang tersedia |
+| [A04](a04.qmd) | [W04 — Five-Language Translation Portfolio](../portfolio/week-04.qmd) | Siap ditinjau berdasarkan dokumen yang tersedia |
+| [A05](a05.qmd) | [W05 — Professional Discovery Interview](../portfolio/week-05.qmd) | Siap ditinjau berdasarkan dokumen yang tersedia |
+| [A06](a06.qmd) | [W06 — Target–Attention Challenge](../portfolio/week-06.qmd) | Draf analitis selesai; bukti praktik belum tersedia |
+| [A07](a07.qmd) | [W07 — Problem–Solution Interest Pitch](../portfolio/week-07.qmd) | Draf analitis selesai; bukti praktik belum tersedia |
+| [A08](a08.qmd) | [W08 — UTS Performance Evidence Package](../portfolio/week-08.qmd) | Siap ditinjau berdasarkan dokumen yang tersedia |
+| [A09](a09.qmd) | [W09 — Desire-State Communication](../portfolio/week-09.qmd) | Draf analitis selesai; bukti praktik belum tersedia |
+| [A10](a10.qmd) | [W10 — Action & Agreement Challenge](../portfolio/week-10.qmd) | Draf analitis selesai; bukti praktik belum tersedia |
+| [A11](a11.qmd) | [W11 — Multi-Person Negotiation Challenge](../portfolio/week-11.qmd) | Draf analitis selesai; bukti praktik belum tersedia |
+| [A12](a12.qmd) | [W12 — Community Communication Challenge](../portfolio/week-12.qmd) | Draf analitis selesai; bukti praktik belum tersedia |
+| [A13](a13.qmd) | [W13 — Public Contribution Challenge](../portfolio/week-13.qmd) | Draf analitis selesai; bukti praktik belum tersedia |
+| [A14](a14.qmd) | [W14 — AI-Mediated Communication Design](../portfolio/week-14.qmd) | Draf analitis selesai; bukti praktik belum tersedia |
+| [A15](a15.qmd) | [W15 — Capstone Performance Portfolio](../portfolio/week-15.qmd) | Draf analitis selesai; bukti praktik belum tersedia |
+
+Status Draft berarti naskah latihan tersedia, tetapi bukti praktik, konfirmasi mitra, atau penilaian diri masih perlu dilengkapi. Push ke situs tidak berarti pengumpulan ke portal akademik.

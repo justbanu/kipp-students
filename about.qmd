@@ -16,9 +16,7 @@ toc: false
 
 ## Pernyataan portfolio
 
-Tuliskan tujuan belajar pribadi Anda untuk semester ini.
-
-> Ganti teks ini dengan pernyataan singkat tentang kompetensi komunikasi yang ingin Anda bangun dan alasan mengapa kompetensi tersebut penting.
+Saya, Banu Agil Triyanto (18225109), ingin melatih kemampuan mendengar sebelum mengusulkan solusi, menyesuaikan bahasa dengan kebutuhan penerima, serta membangun kesepakatan yang jelas dan dapat ditindaklanjuti. Portofolio ini membedakan pengalaman yang sudah terdokumentasi dari latihan dan simulasi berbantuan AI.
 
 ## Aturan evidence
 

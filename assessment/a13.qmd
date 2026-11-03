@@ -1,0 +1,29 @@
+---
+title: "A13 — Public Contribution Challenge"
+sidebar: assessment
+---
+
+**Nama:** Banu Agil Triyanto  
+**NIM:** 18225109
+
+## Status tugas
+
+Draf analitis selesai; bukti praktik belum tersedia. Nilai resmi dosen belum tersedia. Kode A13 pada rekap ini dipetakan ke portofolio W13; bukan nomor assessment resmi yang telah diverifikasi dosen.
+
+## Hasil pengerjaan
+
+[Buka hasil lengkap W13](../portfolio/week-13.qmd). Halaman tersebut memuat artefak, analisis, penggunaan AI, dan tindak lanjut. Artefak baru berupa latihan dan simulasi yang ditandai secara eksplisit.
+
+## Pemeriksaan pencapaian
+
+| Pemeriksaan | Status |
+|---|---|
+| Halaman tugas dan tautan portofolio | Tersedia |
+| Identitas mahasiswa | Banu Agil Triyanto — 18225109 |
+| Artefak dan analisis tertulis | Tersedia |
+| Bukti praktik dan feedback | Belum tersedia; perlu pelaksanaan |
+| Penilaian dosen | Belum tersedia |
+
+## Tindak lanjut
+
+Lakukan praktik dengan mitra, simpan catatan respons berizin, dan perbarui status hanya setelah evidence wajib lengkap.

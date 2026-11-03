@@ -1,0 +1,29 @@
+---
+title: "A07 — Problem–Solution Interest Pitch"
+sidebar: assessment
+---
+
+**Nama:** Banu Agil Triyanto  
+**NIM:** 18225109
+
+## Status tugas
+
+Draf analitis selesai; bukti praktik belum tersedia. Nilai resmi dosen belum tersedia. Kode A07 pada rekap ini dipetakan ke portofolio W07; bukan nomor assessment resmi yang telah diverifikasi dosen.
+
+## Hasil pengerjaan
+
+[Buka hasil lengkap W07](../portfolio/week-07.qmd). Halaman tersebut memuat artefak, analisis, penggunaan AI, dan tindak lanjut. Artefak baru berupa latihan dan simulasi yang ditandai secara eksplisit.
+
+## Pemeriksaan pencapaian
+
+| Pemeriksaan | Status |
+|---|---|
+| Halaman tugas dan tautan portofolio | Tersedia |
+| Identitas mahasiswa | Banu Agil Triyanto — 18225109 |
+| Artefak dan analisis tertulis | Tersedia |
+| Bukti praktik dan feedback | Belum tersedia; perlu pelaksanaan |
+| Penilaian dosen | Belum tersedia |
+
+## Tindak lanjut
+
+Lakukan praktik dengan mitra, simpan catatan respons berizin, dan perbarui status hanya setelah evidence wajib lengkap.

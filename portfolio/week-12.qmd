@@ -1,7 +1,7 @@
 ---
 title: "Community Communication Challenge"
 week: 12
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Framing, deliberation, sufficient agreement, dan collective action."
@@ -22,4 +22,78 @@ Memfasilitasi community communication melintasi perbedaan dan power menuju actio
 [Buka contoh fiktif Minggu 12](../examples/week-12.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+**Penulis:** Banu Agil Triyanto — NIM 18225109.
+
+::: {.callout-note title="Kedudukan artefak"}
+Artefak ini adalah latihan analitis dan simulasi berbantuan AI, disusun pada 3 November 2026. Dialog simulasi, respons bersyarat, dan rencana tindakan bukan bukti kegiatan lapangan. Status Draft dipertahankan sampai bukti pelaksanaan dan konfirmasi mitra tersedia.
+:::
+
+## Konteks performance
+
+**Tanggal dan setting:** 3 November 2026; penyusunan artefak tertulis. Simulasi deliberasi komunitas mahasiswa tentang dokumentasi kegiatan yang ringan dan adil.
+
+**Persons dan relationship:** Banu sebagai penyusun latihan; pihak lain disebut berdasarkan peran. Tidak ada persetujuan baru yang diasumsikan.
+
+**Objective dan initial state:** Membuka pilihan bersama dengan perlindungan bagi anggota yang suaranya kurang terdengar. State pihak lain masih hipotesis dan perlu diuji.
+
+## Evidence
+
+::: {.evidence-block}
+**Community map:** Pengurus membawa mandat akuntabilitas; panitia lapangan membawa keterbatasan waktu; peserta membawa hak atas privasi; anggota dengan akses terbatas memerlukan kanal alternatif.
+
+**Fact/story/value/position:** Fact dari kasus W05: data tersebar dan sebagian terlambat. Story yang harus diuji: anggota terlambat karena tidak peduli. Value: adil, akurat, tidak membebani. Position dalam simulasi: satu format untuk semua. Nilai yang sama tidak harus menghasilkan pilihan format yang sama.
+
+**Tiga frames:** (1) Efisiensi: mengurangi pengecekan berulang. (2) Keadilan: mengurangi risiko peserta tidak tercatat. (3) Kepedulian: membagi beban tanpa membuka data pribadi.
+
+**Lima options:** pesan ringkas per divisi; tabel terbatas; penyerahan fisik ke petugas; pendamping data bagi anggota; masa koreksi sebelum laporan final.
+
+**Prosedur deliberasi:** Fasilitator menyampaikan fakta, memberi waktu menulis pendapat, meminta tiap kelompok menyampaikan kendala, menilai opsi dengan kriteria beban–akurasi–akses, lalu membaca ulang keputusan dan keberatan.
+
+**Safeguard:** Tidak menyebut nama anggota yang terlambat; kanal tertulis untuk yang enggan bicara; pilihan tanpa telepon pintar; akses berkas sesuai kebutuhan peran; keputusan dapat ditinjau ulang.
+
+**Rencana collective action:** Pilih satu opsi melalui persetujuan peserta forum, tentukan pemilik dan pengganti, uji satu kegiatan, lalu tinjau H+1. Notulen deliberasi aktual dan persetujuan komunitas belum tersedia.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Peran, kepentingan, dan kewenangan dibedakan dalam artefak. |
+| Objective & state | Membuka pilihan bersama dengan perlindungan bagi anggota yang suaranya kurang terdengar. State awal tidak diperlakukan sebagai fakta tanpa konfirmasi. |
+| Repertoire & language | Bahasa berupa pertanyaan, contoh konkret, dan pilihan yang memberi ruang penolakan. |
+| Response & adaptation | Mengubah frame menyalahkan individu menjadi hambatan proses dan akses. Respons lapangan belum terdokumentasi. |
+| Agreement/action | Rencana dan artefak tersedia; persetujuan serta pelaksanaan belum diklaim. |
+| Relationship outcome | Perlindungan privasi dan otonomi dirancang; dampak hubungan perlu feedback aktual. |
+
+## Penggunaan AI
+
+AI membantu menghasilkan kerangka, naskah, tabel, simulasi, dan analisis pada halaman ini. Instruksi utama adalah mengikuti kompetensi minggu ini, mempertahankan judul/subjudul, dan membedakan bukti yang tersedia dari skenario. Hasil digunakan sebagai draf latihan; pemeriksaan akhir Banu atas fakta dan kesesuaian pengalaman belum tercatat. Tidak ada dialog simulasi yang dianggap rekaman asli, dan AI tidak menetapkan nilai dosen.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Belum ada feedback mitra atau observer untuk latihan baru ini. Catatan evaluasi di atas adalah analisis draf, bukan kutipan narasumber.
+
+**Adaptation/replay:** Mengubah frame menyalahkan individu menjadi hambatan proses dan akses.
+
+**Next practice:** Menyelenggarakan forum kecil dengan kanal tanggapan tertulis dan mencatat keberatan minoritas.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | — | Peta peran tersedia; observasi aktual belum tersedia. |
+| Objective & State | — | Objective tertulis; state perlu konfirmasi. |
+| Repertoire, Language & AI | — | Naskah dan deklarasi AI tersedia; perlu pemeriksaan akhir penulis. |
+| Response & Adaptation | — | Cabang adaptasi dirancang; respons aktual belum dicatat. |
+| Agreement, Action & Relationship | — | Rencana review tersedia; tindakan dan dampak belum diverifikasi. |
+
+**Total:** Belum dinilai / 20. Skor perilaku memerlukan bukti pelaksanaan.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

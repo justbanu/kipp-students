@@ -1,7 +1,7 @@
 ---
 title: "Public Contribution Challenge"
 week: 13
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Public artifact, evidence, context, response, dan reputation."
@@ -22,4 +22,76 @@ Mengomunikasikan core meaning kepada public secara sederhana, benar, dan bertang
 [Buka contoh fiktif Minggu 13](../examples/week-13.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+**Penulis:** Banu Agil Triyanto — NIM 18225109.
+
+::: {.callout-note title="Kedudukan artefak"}
+Artefak ini adalah latihan analitis dan simulasi berbantuan AI, disusun pada 3 November 2026. Dialog simulasi, respons bersyarat, dan rencana tindakan bukan bukti kegiatan lapangan. Status Draft dipertahankan sampai bukti pelaksanaan dan konfirmasi mitra tersedia.
+:::
+
+## Konteks performance
+
+**Tanggal dan setting:** 3 November 2026; penyusunan artefak tertulis. Penyusunan artefak publik berupa panduan singkat komunikasi panitia.
+
+**Persons dan relationship:** Banu sebagai penyusun latihan; pihak lain disebut berdasarkan peran. Tidak ada persetujuan baru yang diasumsikan.
+
+**Objective dan initial state:** Menyampaikan pesan sederhana yang dapat digunakan tanpa membuka identitas narasumber. State pihak lain masih hipotesis dan perlu diuji.
+
+## Evidence
+
+::: {.evidence-block}
+**Public character dan target:** Banu sebagai mahasiswa penyusun panduan, berbicara kepada panitia mahasiswa. Target awal berada pada Attention; tujuan berikutnya adalah memahami satu langkah perbaikan, bukan langsung menyetujui seluruh sistem.
+
+**Artefak publik — Dengarkan sebelum merapikan proses**
+
+> Data kegiatan yang terlambat belum tentu berarti anggota tidak peduli. Tanyakan dulu: apa yang terjadi, siapa yang terdampak, dan apa kendalanya? Setelah itu, sepakati siapa yang menyerahkan data, kapan diserahkan, dan bagaimana menandai bagian yang belum lengkap. Batasi akses pada data pribadi. Mulai dari satu kegiatan kecil, lalu evaluasi bersama. Proses yang baik membantu orang bekerja lebih jelas dan menjaga kepercayaan.
+
+**Dasar evidence:** [Materi Minggu 5](../course/week-05.qmd), [Materi Minggu 12](../course/week-12.qmd), dan [catatan kasus W05](week-05.qmd). Panduan merangkum prinsip dan kasus terbatas; tidak menyatakan bahwa suatu metode pasti efektif untuk semua panitia.
+
+**Context-collapse/reputation check:** Tidak menyebut nama Raka atau organisasi tertentu dalam artefak; pembaca luar konteks tidak diarahkan menyalahkan orang; tidak ada persentase peningkatan yang dibuat-buat.
+
+**Respons dan koreksi:** Belum ada komentar pembaca yang didokumentasikan. Jika ada pembaca menilai panduan menyalahkan panitia, saya akan memperjelas bahwa kendala waktu, perangkat, dan kewenangan harus dipahami terlebih dahulu. Koreksi faktual akan diberi catatan perubahan.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Peran, kepentingan, dan kewenangan dibedakan dalam artefak. |
+| Objective & state | Menyampaikan pesan sederhana yang dapat digunakan tanpa membuka identitas narasumber. State awal tidak diperlakukan sebagai fakta tanpa konfirmasi. |
+| Repertoire & language | Bahasa berupa pertanyaan, contoh konkret, dan pilihan yang memberi ruang penolakan. |
+| Response & adaptation | Menghapus jargon dan mengganti tuduhan dengan pertanyaan yang dapat dipraktikkan. Respons lapangan belum terdokumentasi. |
+| Agreement/action | Rencana dan artefak tersedia; persetujuan serta pelaksanaan belum diklaim. |
+| Relationship outcome | Perlindungan privasi dan otonomi dirancang; dampak hubungan perlu feedback aktual. |
+
+## Penggunaan AI
+
+AI membantu menghasilkan kerangka, naskah, tabel, simulasi, dan analisis pada halaman ini. Instruksi utama adalah mengikuti kompetensi minggu ini, mempertahankan judul/subjudul, dan membedakan bukti yang tersedia dari skenario. Hasil digunakan sebagai draf latihan; pemeriksaan akhir Banu atas fakta dan kesesuaian pengalaman belum tercatat. Tidak ada dialog simulasi yang dianggap rekaman asli, dan AI tidak menetapkan nilai dosen.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Belum ada feedback mitra atau observer untuk latihan baru ini. Catatan evaluasi di atas adalah analisis draf, bukan kutipan narasumber.
+
+**Adaptation/replay:** Menghapus jargon dan mengganti tuduhan dengan pertanyaan yang dapat dipraktikkan.
+
+**Next practice:** Meminta dua pembaca merangkum pesan dengan kata mereka sendiri dan menyimpan feedback berizin.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | — | Peta peran tersedia; observasi aktual belum tersedia. |
+| Objective & State | — | Objective tertulis; state perlu konfirmasi. |
+| Repertoire, Language & AI | — | Naskah dan deklarasi AI tersedia; perlu pemeriksaan akhir penulis. |
+| Response & Adaptation | — | Cabang adaptasi dirancang; respons aktual belum dicatat. |
+| Agreement, Action & Relationship | — | Rencana review tersedia; tindakan dan dampak belum diverifikasi. |
+
+**Total:** Belum dinilai / 20. Skor perilaku memerlukan bukti pelaksanaan.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

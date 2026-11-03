@@ -1,8 +1,8 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "15"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -33,9 +33,7 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 ## Evidence
 
 ::: {.evidence-block}
-![Dokumentasi latihan mendengarkan aktif bersama Fakhri Athallah Dwi Andeo](../assets/fakhri.jpeg)
-
-Gambar di atas adalah dokumentasi sesi latihan. Kontribusi saya adalah menyiapkan percakapan, mendengarkan tanpa memotong, mengajukan pertanyaan terbuka, melakukan parafrasa, dan mencatat umpan balik mitra. Catatan percakapan dan refleksi berikut ditulis segera setelah sesi.
+Berkas foto yang dirujuk sebelumnya tidak tersedia di repository, sehingga dokumentasi gambar belum dapat ditampilkan. Catatan sumber menyebut kontribusi saya adalah menyiapkan percakapan, mendengarkan tanpa memotong, mengajukan pertanyaan terbuka, melakukan parafrasa, dan mencatat umpan balik mitra. Keaslian catatan perlu ditinjau bersama mitra sebelum assessment.
 
 **Potongan transcript:**
 

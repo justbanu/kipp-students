@@ -16,7 +16,7 @@ listing:
   page-size: 20
 ---
 
-Perbarui metadata di bagian atas setiap file `week-XX.qmd`. Nilai `status` yang disarankan: `Belum dimulai`, `Draft`, `Siap dinilai`, `Perlu revisi`, atau `Tercapai`.
+Portofolio Banu Agil Triyanto — NIM 18225109. Semua minggu memiliki artefak tertulis. Status Draft menandakan bukti praktik atau konfirmasi mitra belum lengkap. [Lihat rekap tugas A01–A15](../assessment/tasks.qmd).
 
 ::: {.callout-tip title="Butuh contoh?"}
 Lihat [contoh portfolio lengkap untuk Minggu 1–15](../examples/index.qmd). Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.

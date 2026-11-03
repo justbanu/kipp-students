@@ -7,6 +7,7 @@ project:
     - "*.qmd"
     - "course/*.qmd"
     - "portfolio/*.qmd"
+    - "portfolio/UTS/*.qmd"
     - "examples/*.qmd"
     - "assessment/*.qmd"
     - "lk/*.qmd"
@@ -90,6 +91,7 @@ website:
       style: docked
       contents:
         - assessment/index.qmd
+        - assessment/tasks.qmd
         - assessment/rubric.qmd
     - id: examples
       title: "Contoh Portfolio"

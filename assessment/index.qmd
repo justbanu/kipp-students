@@ -15,6 +15,8 @@ Assessment menilai **perilaku komunikasi yang dapat diamati**, bukan kepribadian
 
 ## Status pencapaian
 
+[Buka rekap status tugas A01–A15](tasks.qmd) dan hasil portofolio W01–W15 milik Banu Agil Triyanto (18225109).
+
 | Status | Makna |
 |---|---|
 | Belum dimulai | Belum ada evidence |

@@ -1,7 +1,7 @@
 ---
 title: "Capstone Performance Portfolio"
 week: 15
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Integrated person-centered communication performance."
@@ -22,4 +22,86 @@ Mengintegrasikan person, character, objective, state, repertoire, language, resp
 [Buka contoh fiktif Minggu 15](../examples/week-15.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+**Penulis:** Banu Agil Triyanto — NIM 18225109.
+
+::: {.callout-note title="Kedudukan artefak"}
+Artefak ini adalah latihan analitis dan simulasi berbantuan AI, disusun pada 3 November 2026. Dialog simulasi, respons bersyarat, dan rencana tindakan bukan bukti kegiatan lapangan. Status Draft dipertahankan sampai bukti pelaksanaan dan konfirmasi mitra tersedia.
+:::
+
+## Konteks performance
+
+**Tanggal dan setting:** 3 November 2026; penyusunan artefak tertulis. Integrasi capstone berupa rancangan komunikasi dari discovery hingga review tindakan.
+
+**Persons dan relationship:** Banu sebagai penyusun latihan; pihak lain disebut berdasarkan peran. Tidak ada persetujuan baru yang diasumsikan.
+
+**Objective dan initial state:** Menggabungkan person, state, repertoire, adaptasi, agreement, dan audit AI dalam satu kasus. State pihak lain masih hipotesis dan perlu diuji.
+
+## Evidence
+
+::: {.evidence-block}
+**Person/character/state map:** Koordinator membawa kebutuhan kepastian (hipotesis Desire); anggota membawa kendala kapasitas (Attention); ketua membawa mandat keputusan (Interest). Peran fasilitator adalah memeriksa asumsi dan memberi ruang dissent.
+
+**Performance plan:** Buka dengan contoh kejadian W05; tanyakan dampak dan current workaround; bacakan problem statement; demonstrasikan data dummy W07; gali nilai W09; bandingkan opsi W10–W11; susun usulan peran, tenggat relatif, akses, dan review; tanyakan apa yang belum disetujui.
+
+**Transcript simulasi integratif:**
+
+> Fasilitator: “Kebutuhan mana yang paling mendesak: mengetahui bagian kurang atau menyelesaikan semua berkas saat itu juga?”
+>
+> Anggota: “Kami bisa memberi status singkat, tetapi berkas lengkap harus menunggu bongkar peralatan.”
+>
+> Fasilitator: “Jadi kita pisahkan status awal dan berkas lengkap. Apakah koordinator tetap mendapat kepastian dengan cara itu?”
+>
+> Koordinator: “Dalam skenario ini, ya, asalkan ada pemilik dan batas serah.”
+
+**Decisive adaptation:** Tuntutan dokumen lengkap langsung diganti dengan status awal dan penyerahan bertahap. Beban lapangan diakui tanpa menghilangkan akuntabilitas.
+
+**Draf agreement:** Satu kegiatan uji, pemilik per divisi, batas serah yang diputuskan bersama, akses terbatas, jalur bantuan, dan review H+1. **Specific disagreement:** Batas waktu tidak boleh ditetapkan sepihak; keputusan final menunggu pihak berwenang.
+
+**Observer sheet untuk pelaksanaan:** Catat apakah saya memotong pembicaraan, menguji asumsi, mengulang kendala, memberi opsi, dan menutup dengan pemilik serta waktu. Belum ada observer independen atau rekaman capstone lapangan.
+
+**AI critique dan reflection:** AI membantu menyusun bahasa dan simulasi, tetapi dapat membuat dialog terlihat lebih mulus daripada kenyataan. Pelajaran lintas artefak adalah menjaga batas fakta, tafsir, dan usulan. Keberhasilan baru dapat dinilai setelah pihak nyata mengonfirmasi pemahaman dan tindakan.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Peran, kepentingan, dan kewenangan dibedakan dalam artefak. |
+| Objective & state | Menggabungkan person, state, repertoire, adaptasi, agreement, dan audit AI dalam satu kasus. State awal tidak diperlakukan sebagai fakta tanpa konfirmasi. |
+| Repertoire & language | Bahasa berupa pertanyaan, contoh konkret, dan pilihan yang memberi ruang penolakan. |
+| Response & adaptation | Menghubungkan keberatan kapasitas dengan perubahan mekanisme, bukan menambah tekanan pada anggota. Respons lapangan belum terdokumentasi. |
+| Agreement/action | Rencana dan artefak tersedia; persetujuan serta pelaksanaan belum diklaim. |
+| Relationship outcome | Perlindungan privasi dan otonomi dirancang; dampak hubungan perlu feedback aktual. |
+
+## Penggunaan AI
+
+AI membantu menghasilkan kerangka, naskah, tabel, simulasi, dan analisis pada halaman ini. Instruksi utama adalah mengikuti kompetensi minggu ini, mempertahankan judul/subjudul, dan membedakan bukti yang tersedia dari skenario. Hasil digunakan sebagai draf latihan; pemeriksaan akhir Banu atas fakta dan kesesuaian pengalaman belum tercatat. Tidak ada dialog simulasi yang dianggap rekaman asli, dan AI tidak menetapkan nilai dosen.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Belum ada feedback mitra atau observer untuk latihan baru ini. Catatan evaluasi di atas adalah analisis draf, bukan kutipan narasumber.
+
+**Adaptation/replay:** Menghubungkan keberatan kapasitas dengan perubahan mekanisme, bukan menambah tekanan pada anggota.
+
+**Next practice:** Melakukan capstone bersama mitra dan observer, mencatat respons asli, lalu membandingkan dengan simulasi.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | — | Peta peran tersedia; observasi aktual belum tersedia. |
+| Objective & State | — | Objective tertulis; state perlu konfirmasi. |
+| Repertoire, Language & AI | — | Naskah dan deklarasi AI tersedia; perlu pemeriksaan akhir penulis. |
+| Response & Adaptation | — | Cabang adaptasi dirancang; respons aktual belum dicatat. |
+| Agreement, Action & Relationship | — | Rencana review tersedia; tindakan dan dampak belum diverifikasi. |
+
+**Total:** Belum dinilai / 20. Skor perilaku memerlukan bukti pelaksanaan.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

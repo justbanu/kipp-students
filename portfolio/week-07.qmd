@@ -1,7 +1,7 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
@@ -22,4 +22,82 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 [Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+**Penulis:** Banu Agil Triyanto — NIM 18225109.
+
+::: {.callout-note title="Kedudukan artefak"}
+Artefak ini adalah latihan analitis dan simulasi berbantuan AI, disusun pada 3 November 2026. Dialog simulasi, respons bersyarat, dan rencana tindakan bukan bukti kegiatan lapangan. Status Draft dipertahankan sampai bukti pelaksanaan dan konfirmasi mitra tersedia.
+:::
+
+## Konteks performance
+
+**Tanggal dan setting:** 3 November 2026; penyusunan artefak tertulis. Latihan interest pitch lanjutan untuk alur daftar hadir pada W05–W06.
+
+**Persons dan relationship:** Banu sebagai penyusun latihan; pihak lain disebut berdasarkan peran. Tidak ada persetujuan baru yang diasumsikan.
+
+**Objective dan initial state:** Menjelaskan mekanisme perbaikan dan menguji minat tanpa menganggap perhatian sebagai persetujuan. State pihak lain masih hipotesis dan perlu diuji.
+
+## Evidence
+
+::: {.evidence-block}
+**Problem–solution link:** Data terlambat dan status kelengkapan tidak jelas → satu penanggung jawab per divisi, batas serah yang disepakati, dan penanda lengkap/belum lengkap → koordinator dapat menemukan data kurang tanpa menelusuri semua percakapan.
+
+**Demonstrasi dummy:**
+
+| Divisi | Pemilik data | Batas serah relatif | Status contoh | Tindak lanjut |
+|---|---|---|---|---|
+| Acara | Peran A | 30 menit setelah acara | Lengkap | Periksa sampel |
+| Konsumsi | Peran B | 30 menit setelah acara | Belum lengkap | Konfirmasi jumlah |
+| Registrasi | Peran C | 30 menit setelah acara | Perlu koreksi | Cek duplikasi |
+
+Semua baris adalah data buatan. Contoh tidak menyimpan nama peserta.
+
+**Naskah pitch:** “Daripada mencari di semua chat, bagaimana jika tiap divisi menyebut pemilik data dan status kelengkapannya? Tabel ini menunjukkan bagian yang belum selesai. Kita bisa mencoba satu kegiatan kecil tanpa membeli layanan baru. Apa yang paling merepotkan dari cara ini?”
+
+**Hidden concern:** Anggota mungkin menganggap penanda status sebagai pengawasan personal. Adaptasinya adalah menandai kelengkapan dokumen, bukan memberi label anggota rajin atau malas. Alternatif lain ialah rekap lewat pesan singkat bila tabel sulit diakses.
+
+**Signal Interest:** Target meminta mencoba contoh dengan alurnya sendiri atau bertanya tentang beban penerapan. Pujian terhadap tampilan saja belum menunjukkan minat. Belum ada respons lapangan baru yang tercatat.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Peran, kepentingan, dan kewenangan dibedakan dalam artefak. |
+| Objective & state | Menjelaskan mekanisme perbaikan dan menguji minat tanpa menganggap perhatian sebagai persetujuan. State awal tidak diperlakukan sebagai fakta tanpa konfirmasi. |
+| Repertoire & language | Bahasa berupa pertanyaan, contoh konkret, dan pilihan yang memberi ruang penolakan. |
+| Response & adaptation | Menambahkan jalur pesan singkat dan menjelaskan bahwa status menilai kelengkapan dokumen. Respons lapangan belum terdokumentasi. |
+| Agreement/action | Rencana dan artefak tersedia; persetujuan serta pelaksanaan belum diklaim. |
+| Relationship outcome | Perlindungan privasi dan otonomi dirancang; dampak hubungan perlu feedback aktual. |
+
+## Penggunaan AI
+
+AI membantu menghasilkan kerangka, naskah, tabel, simulasi, dan analisis pada halaman ini. Instruksi utama adalah mengikuti kompetensi minggu ini, mempertahankan judul/subjudul, dan membedakan bukti yang tersedia dari skenario. Hasil digunakan sebagai draf latihan; pemeriksaan akhir Banu atas fakta dan kesesuaian pengalaman belum tercatat. Tidak ada dialog simulasi yang dianggap rekaman asli, dan AI tidak menetapkan nilai dosen.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Belum ada feedback mitra atau observer untuk latihan baru ini. Catatan evaluasi di atas adalah analisis draf, bukan kutipan narasumber.
+
+**Adaptation/replay:** Menambahkan jalur pesan singkat dan menjelaskan bahwa status menilai kelengkapan dokumen.
+
+**Next practice:** Meminta target menjalankan satu contoh dummy dan mencatat langkah yang membingungkan.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | — | Peta peran tersedia; observasi aktual belum tersedia. |
+| Objective & State | — | Objective tertulis; state perlu konfirmasi. |
+| Repertoire, Language & AI | — | Naskah dan deklarasi AI tersedia; perlu pemeriksaan akhir penulis. |
+| Response & Adaptation | — | Cabang adaptasi dirancang; respons aktual belum dicatat. |
+| Agreement, Action & Relationship | — | Rencana review tersedia; tindakan dan dampak belum diverifikasi. |
+
+**Total:** Belum dinilai / 20. Skor perilaku memerlukan bukti pelaksanaan.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
