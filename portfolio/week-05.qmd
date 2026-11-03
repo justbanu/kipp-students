@@ -2,7 +2,7 @@
 title: "Professional Discovery Interview"
 week: 5
 status: "Siap dinilai"
-self_score: "15/20 — Kompeten"
+self_score: "20"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
@@ -93,15 +93,17 @@ AI digunakan untuk membantu merapikan struktur tulisan portofolio tanpa menambah
 
 ## Self-assessment
 
+**Catatan penilaian diri:** Skor 20/20 ditetapkan oleh mahasiswa atas permintaan Banu Agil Triyanto. Angka ini bukan nilai resmi dosen atau verifikasi bahwa seluruh kriteria telah terbukti. Status bukti dan kebutuhan praktik tetap mengikuti uraian halaman ini.
+
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Peran, beban, kekhawatiran, dan constraint Raka dipetakan. |
-| Objective & State | 3 | Asumsi awal diperbarui berdasarkan kejadian konkret dan impact. |
-| Repertoire, Language & AI | 3 | Pertanyaan terbuka, paraphrase, konfirmasi, dan penggunaan AI terbatas terdokumentasi. |
-| Response & Adaptation | 3 | Usulan solusi ditahan setelah masalah sebenarnya diketahui. |
-| Agreement, Action & Relationship | 3 | Problem statement dikonfirmasi dan tindak lanjut dirumuskan. |
+| Person & Character | 4 | Peran, beban, kekhawatiran, dan constraint Raka dipetakan. |
+| Objective & State | 4 | Asumsi awal diperbarui berdasarkan kejadian konkret dan impact. |
+| Repertoire, Language & AI | 4 | Pertanyaan terbuka, paraphrase, konfirmasi, dan penggunaan AI terbatas terdokumentasi. |
+| Response & Adaptation | 4 | Usulan solusi ditahan setelah masalah sebenarnya diketahui. |
+| Agreement, Action & Relationship | 4 | Problem statement dikonfirmasi dan tindak lanjut dirumuskan. |
 
-**Total:** 15 / 20 — Kompeten.
+**Total:** 20 / 20 — Lanjut.
 
 ::: {.assessor-only}
 ### Assessment dosen

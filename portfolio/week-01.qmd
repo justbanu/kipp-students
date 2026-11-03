@@ -2,7 +2,7 @@
 title: "Character Map"
 week: 1
 status: "Siap dinilai"
-self_score: "15"
+self_score: "20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -53,15 +53,17 @@ Core kepedulian terhadap orang lain tetap sama di kedua peran, tetapi *responsib
 
 ## Self-assessment
 
+**Catatan penilaian diri:** Skor 20/20 ditetapkan oleh mahasiswa atas permintaan Banu Agil Triyanto. Angka ini bukan nilai resmi dosen atau verifikasi bahwa seluruh kriteria telah terbukti. Status bukti dan kebutuhan praktik tetap mengikuti uraian halaman ini.
+
 | Dimensi | Skor | Alasan |
 |---|---:|---|
-| Person & Character | 3 | 5 character dari lebih dari 3 domain sudah dipetakan dengan person & relationship jelas |
-| Objective & State | 3 | Objective tiap character dan state awal-tujuan episode BPA sudah eksplisit |
-| Repertoire, Language & AI | 3 | Perubahan language antar character ditunjukkan; batas peran AI dijelaskan |
-| Response & Adaptation | 3 | Dua adaptasi nyata (tempat dan tanggal) berdasarkan informasi baru dari lapangan dan aspirasi angkatan |
-| Agreement, Action & Relationship | 3 | Ada keputusan, proses, dan dampak relationship (kepercayaan angkatan) tercatat |
+| Person & Character | 4 | 5 character dari lebih dari 3 domain sudah dipetakan dengan person & relationship jelas |
+| Objective & State | 4 | Objective tiap character dan state awal-tujuan episode BPA sudah eksplisit |
+| Repertoire, Language & AI | 4 | Perubahan language antar character ditunjukkan; batas peran AI dijelaskan |
+| Response & Adaptation | 4 | Dua adaptasi nyata (tempat dan tanggal) berdasarkan informasi baru dari lapangan dan aspirasi angkatan |
+| Agreement, Action & Relationship | 4 | Ada keputusan, proses, dan dampak relationship (kepercayaan angkatan) tercatat |
 
-**Total: 15/20.**
+**Total:** 20 / 20 — Lanjut.
 
 ::: {.assessor-only}
 ### Assessment dosen

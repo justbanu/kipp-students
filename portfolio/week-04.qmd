@@ -2,7 +2,7 @@
 title: "Five-Language Translation Portfolio"
 week: 4
 status: "Siap dinilai"
-self_score: "17"
+self_score: "20"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
@@ -70,15 +70,17 @@ AI digunakan untuk memeriksa apakah kelima versi memiliki tingkat formalitas dan
 
 ## Self-assessment
 
+**Catatan penilaian diri:** Skor 20/20 ditetapkan oleh mahasiswa atas permintaan Banu Agil Triyanto. Angka ini bukan nilai resmi dosen atau verifikasi bahwa seluruh kriteria telah terbukti. Status bukti dan kebutuhan praktik tetap mengikuti uraian halaman ini.
+
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
 | Person & Character | 4 | Lima target dibedakan berdasarkan kebutuhan informasi dan hubungan, bukan sekadar sapaan. |
-| Objective & State | 3 | Core meaning dan masalah awal berupa jargon dinyatakan jelas. |
+| Objective & State | 4 | Core meaning dan masalah awal berupa jargon dinyatakan jelas. |
 | Repertoire, Language & AI | 4 | Lima register, alasan adaptasi, dan batas penggunaan AI terdokumentasi. |
-| Response & Adaptation | 3 | Pertanyaan target customer menghasilkan replay yang lebih inklusif. |
-| Agreement, Action & Relationship | 3 | Pilihan bantuan dan langkah berikutnya dibuat eksplisit bagi pengguna. |
+| Response & Adaptation | 4 | Pertanyaan target customer menghasilkan replay yang lebih inklusif. |
+| Agreement, Action & Relationship | 4 | Pilihan bantuan dan langkah berikutnya dibuat eksplisit bagi pengguna. |
 
-**Total:** 17 / 20
+**Total:** 20 / 20 — Lanjut.
 
 ::: {.assessor-only}
 ### Assessment dosen

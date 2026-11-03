@@ -2,7 +2,7 @@
 title: "Capstone Performance Portfolio"
 week: 15
 status: "Draft"
-self_score: "—"
+self_score: "20"
 assessor_score: "—"
 description: "Integrated person-centered communication performance."
 categories: [Assessment, Capstone]
@@ -87,15 +87,17 @@ AI membantu menghasilkan kerangka, naskah, tabel, simulasi, dan analisis pada ha
 
 ## Self-assessment
 
+**Catatan penilaian diri:** Skor 20/20 ditetapkan oleh mahasiswa atas permintaan Banu Agil Triyanto. Angka ini bukan nilai resmi dosen atau verifikasi bahwa seluruh kriteria telah terbukti. Status bukti dan kebutuhan praktik tetap mengikuti uraian halaman ini.
+
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | — | Peta peran tersedia; observasi aktual belum tersedia. |
-| Objective & State | — | Objective tertulis; state perlu konfirmasi. |
-| Repertoire, Language & AI | — | Naskah dan deklarasi AI tersedia; perlu pemeriksaan akhir penulis. |
-| Response & Adaptation | — | Cabang adaptasi dirancang; respons aktual belum dicatat. |
-| Agreement, Action & Relationship | — | Rencana review tersedia; tindakan dan dampak belum diverifikasi. |
+| Person & Character | 4 | Peta peran tersedia; observasi aktual belum tersedia. |
+| Objective & State | 4 | Objective tertulis; state perlu konfirmasi. |
+| Repertoire, Language & AI | 4 | Naskah dan deklarasi AI tersedia; perlu pemeriksaan akhir penulis. |
+| Response & Adaptation | 4 | Cabang adaptasi dirancang; respons aktual belum dicatat. |
+| Agreement, Action & Relationship | 4 | Rencana review tersedia; tindakan dan dampak belum diverifikasi. |
 
-**Total:** Belum dinilai / 20. Skor perilaku memerlukan bukti pelaksanaan.
+**Total:** 20 / 20 — Lanjut.
 
 ::: {.assessor-only}
 ### Assessment dosen

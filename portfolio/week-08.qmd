@@ -2,7 +2,7 @@
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
 status: "Siap dinilai"
-self_score: "—"
+self_score: "20"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
@@ -60,15 +60,17 @@ Laporan UTS yang sudah ada dipertahankan sebagai sumber. AI membantu penyusunan 
 
 ## Self-assessment
 
+**Catatan penilaian diri:** Skor 20/20 ditetapkan oleh mahasiswa atas permintaan Banu Agil Triyanto. Angka ini bukan nilai resmi dosen atau verifikasi bahwa seluruh kriteria telah terbukti. Status bukti dan kebutuhan praktik tetap mengikuti uraian halaman ini.
+
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | — | Lihat penilaian per kasus; belum dikonversi ke rubrik universal. |
-| Objective & State | — | Laporan tersedia; perlu moderasi. |
-| Repertoire, Language & AI | — | Penggunaan AI dan batas keputusan dijelaskan. |
-| Response & Adaptation | — | Replay berada di tiap laporan. |
-| Agreement, Action & Relationship | — | Pilot nyata belum terverifikasi. |
+| Person & Character | 4 | Lihat penilaian per kasus; belum dikonversi ke rubrik universal. |
+| Objective & State | 4 | Laporan tersedia; perlu moderasi. |
+| Repertoire, Language & AI | 4 | Penggunaan AI dan batas keputusan dijelaskan. |
+| Response & Adaptation | 4 | Replay berada di tiap laporan. |
+| Agreement, Action & Relationship | 4 | Pilot nyata belum terverifikasi. |
 
-**Total:** Belum dikonversi / 20. Rubrik UTS per kasus memiliki enam dimensi, sehingga tidak disalin menjadi skor universal lima dimensi.
+**Total:** 20 / 20 — Lanjut.
 
 ::: {.assessor-only}
 ### Assessment dosen

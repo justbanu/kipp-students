@@ -2,7 +2,7 @@
 title: "Relationship Conversation"
 week: 3
 status: "Siap dinilai"
-self_score: "15"
+self_score: "20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -77,15 +77,17 @@ Saya menggunakan AI untuk merapikan program/dokumen portofolio dan membantu meny
 
 ## Self-assessment
 
+**Catatan penilaian diri:** Skor 20/20 ditetapkan oleh mahasiswa atas permintaan Banu Agil Triyanto. Angka ini bukan nilai resmi dosen atau verifikasi bahwa seluruh kriteria telah terbukti. Status bukti dan kebutuhan praktik tetap mengikuti uraian halaman ini.
+
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Kebutuhan Fakhri dan kecenderungan saya sebagai problem solver dikenali. |
-| Objective & State | 3 | Tujuan mendengarkan dan perubahan state tegang menjadi lebih aman dijelaskan. |
-| Repertoire, Language & AI | 3 | Pertanyaan terbuka, parafrasa, validasi tentatif, dan batas penggunaan AI terdokumentasi. |
-| Response & Adaptation | 3 | Saya menghentikan dorongan memberi solusi dan melakukan replay. |
-| Agreement, Action & Relationship | 3 | Pilihan tindakan disusun sesuai kebutuhan Fakhri dan hubungan kerja tetap terjaga. |
+| Person & Character | 4 | Kebutuhan Fakhri dan kecenderungan saya sebagai problem solver dikenali. |
+| Objective & State | 4 | Tujuan mendengarkan dan perubahan state tegang menjadi lebih aman dijelaskan. |
+| Repertoire, Language & AI | 4 | Pertanyaan terbuka, parafrasa, validasi tentatif, dan batas penggunaan AI terdokumentasi. |
+| Response & Adaptation | 4 | Saya menghentikan dorongan memberi solusi dan melakukan replay. |
+| Agreement, Action & Relationship | 4 | Pilihan tindakan disusun sesuai kebutuhan Fakhri dan hubungan kerja tetap terjaga. |
 
-**Total:** 15 / 20
+**Total:** 20 / 20 — Lanjut.
 
 ::: {.assessor-only}
 ### Assessment dosen
