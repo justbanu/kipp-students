@@ -1,25 +1,15 @@
----
-title: "UTS Performance Evidence Package"
+﻿---
+title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
 status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
-description: "Integrated performance Target–Attention–Interest."
+description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-## Kompetensi target
-
-Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.
-
-## Evidence wajib
-
-- Performance card dan initial state.
-- Rekaman/transcript serta observer sheet.
-- Feedback, replay, evidence improvement, dan reflection.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-tip title="Mulai mengisi"}
+Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
 :::
 
 ## Konteks performance
