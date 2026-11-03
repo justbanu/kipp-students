@@ -8,7 +8,7 @@ sidebar: assessment
 
 ## Status tugas
 
-Draf analitis selesai; bukti praktik belum tersedia. Nilai resmi dosen belum tersedia. Kode A15 pada rekap ini dipetakan ke portofolio W15; bukan nomor assessment resmi yang telah diverifikasi dosen.
+Siap dinilai (artefak tertulis; bukti praktik belum tersedia). Nilai resmi dosen belum tersedia. Kode A15 pada rekap ini dipetakan ke portofolio W15; bukan nomor assessment resmi yang telah diverifikasi dosen.
 
 ## Hasil pengerjaan
 

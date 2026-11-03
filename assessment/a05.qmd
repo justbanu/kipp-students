@@ -8,7 +8,7 @@ sidebar: assessment
 
 ## Status tugas
 
-Siap ditinjau berdasarkan dokumen yang tersedia. Nilai resmi dosen belum tersedia. Kode A05 pada rekap ini dipetakan ke portofolio W05; bukan nomor assessment resmi yang telah diverifikasi dosen.
+Siap dinilai berdasarkan dokumen yang tersedia. Nilai resmi dosen belum tersedia. Kode A05 pada rekap ini dipetakan ke portofolio W05; bukan nomor assessment resmi yang telah diverifikasi dosen.
 
 ## Hasil pengerjaan
 

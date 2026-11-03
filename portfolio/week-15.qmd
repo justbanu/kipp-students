@@ -1,7 +1,7 @@
 ---
 title: "Capstone Performance Portfolio"
 week: 15
-status: "Draft"
+status: "Siap dinilai"
 self_score: "20"
 assessor_score: "—"
 description: "Integrated person-centered communication performance."
@@ -25,7 +25,7 @@ Mengintegrasikan person, character, objective, state, repertoire, language, resp
 **Penulis:** Banu Agil Triyanto — NIM 18225109.
 
 ::: {.callout-note title="Kedudukan artefak"}
-Artefak ini adalah latihan analitis dan simulasi berbantuan AI, disusun pada 3 November 2026. Dialog simulasi, respons bersyarat, dan rencana tindakan bukan bukti kegiatan lapangan. Status Draft dipertahankan sampai bukti pelaksanaan dan konfirmasi mitra tersedia.
+Artefak ini adalah latihan analitis dan simulasi berbantuan AI, disusun pada 3 November 2026. Dialog simulasi, respons bersyarat, dan rencana tindakan bukan bukti kegiatan lapangan. Status Siap dinilai ditetapkan oleh mahasiswa untuk peninjauan artefak tertulis; bukti praktik dan konfirmasi mitra tetap mengikuti uraian di bawah.
 :::
 
 ## Konteks performance

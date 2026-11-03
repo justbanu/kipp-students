@@ -16,7 +16,7 @@ listing:
   page-size: 20
 ---
 
-Portofolio Banu Agil Triyanto — NIM 18225109. Semua minggu memiliki artefak tertulis. Status Draft menandakan bukti praktik atau konfirmasi mitra belum lengkap. [Lihat rekap tugas A01–A15](../assessment/tasks.qmd).
+Portofolio Banu Agil Triyanto — NIM 18225109. Semua minggu memiliki artefak tertulis. Seluruh minggu berstatus Siap dinilai atas permintaan mahasiswa. Keterbatasan bukti praktik tetap dijelaskan pada masing-masing halaman. [Lihat rekap tugas A01–A15](../assessment/tasks.qmd).
 
 ::: {.callout-tip title="Butuh contoh?"}
 Lihat [contoh portfolio lengkap untuk Minggu 1–15](../examples/index.qmd). Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.
